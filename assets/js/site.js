@@ -44,75 +44,6 @@
     revealables.forEach(function (el) { rvIO.observe(el); });
   }
 
-  /* ---------------- Count-up numbers ---------------- */
-  function countUp(el) {
-    var target = parseFloat(el.dataset.count) || 0;
-    var suffix = el.dataset.suffix || '';
-    if (reduce) {
-      el.textContent = target.toLocaleString('en-US') + suffix;
-      return;
-    }
-    var start = performance.now();
-    var dur = 1500;
-    (function tick(now) {
-      var p = Math.min((now - start) / dur, 1);
-      var eased = 1 - Math.pow(1 - p, 3);
-      el.textContent = Math.round(target * eased).toLocaleString('en-US') + suffix;
-      if (p < 1) requestAnimationFrame(tick);
-    })(start);
-  }
-
-  var counters = document.querySelectorAll('[data-count]');
-  if (!('IntersectionObserver' in window)) {
-    counters.forEach(countUp);
-  } else {
-    var cIO = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) {
-        if (!e.isIntersecting) return;
-        cIO.unobserve(e.target);
-        countUp(e.target);
-      });
-    }, { threshold: 0.5 });
-    counters.forEach(function (el) { cIO.observe(el); });
-  }
-
-  /* ---------------- Hero mock: bar chart + activity feed ---------------- */
-  var bars = document.getElementById('mockBars');
-  if (bars && !reduce && 'IntersectionObserver' in window) {
-    var bIO = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) {
-        if (!e.isIntersecting) return;
-        bIO.unobserve(e.target);
-        Array.prototype.forEach.call(e.target.children, function (bar, i) {
-          setTimeout(function () {
-            bar.style.height = bar.style.getPropertyValue('--h');
-          }, 120 + i * 80);
-        });
-      });
-    }, { threshold: 0.4 });
-    bIO.observe(bars);
-  } else if (bars) {
-    Array.prototype.forEach.call(bars.children, function (bar) {
-      bar.style.height = bar.style.getPropertyValue('--h');
-    });
-  }
-
-  var feed = document.getElementById('heroFeed');
-  if (feed && 'IntersectionObserver' in window) {
-    var fIO = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) {
-        if (!e.isIntersecting) return;
-        fIO.unobserve(e.target);
-        Array.prototype.forEach.call(e.target.children, function (li, i) {
-          setTimeout(function () { li.classList.add('on'); }, 350 + i * 420);
-        });
-      });
-    }, { threshold: 0.3 });
-    fIO.observe(feed);
-  } else if (feed) {
-    Array.prototype.forEach.call(feed.children, function (li) { li.classList.add('on'); });
-  }
-
   /* ---------------- YouTube facade: click a poster, load the real player ---------------- */
   document.querySelectorAll('.player[data-yt]').forEach(function (player) {
     function load() {
@@ -121,7 +52,7 @@
       var frame = document.createElement('iframe');
       frame.src = 'https://www.youtube-nocookie.com/embed/' + id +
         '?autoplay=1&rel=0&modestbranding=1&playsinline=1';
-      frame.title = 'Customer video testimonial';
+      frame.title = player.getAttribute('aria-label') || 'IG Outreach Pro video';
       frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
       frame.allowFullscreen = true;
       frame.loading = 'lazy';

@@ -21,6 +21,7 @@ assets/
   css/site.css      The entire design system (tokens → components → responsive)
   js/site.js        Nav, scroll reveal, counters, YouTube facade, tour tabs, calculator
   img/
+    demo-poster.jpg    16:9 poster for the hero walkthrough
     testimonial-*.jpg  9:16 poster frames extracted from the customer videos
     og.png             1200x630 social card
     icon-*.png         Extension icons, reused as favicon/logo
@@ -32,11 +33,12 @@ Every customer claim on the landing page is transcribed word-for-word from one o
 customer videos. The transcripts drive the hero proof strip, the testimonial cards, and
 the framing of the comparison and FAQ sections:
 
-| Video | Claim used | Link |
+| Video | Where | Claim used |
 | --- | --- | --- |
-| 01 (0:23) | Replaced two appointment setters | [Short](https://youtube.com/shorts/yudZjhCt2qY) |
-| 02 (0:35) | Hours of daily outreach/follow-ups/scraping now unattended | [Short](https://youtube.com/shorts/k4D9WhHkO4w) |
-| 03 (0:35) | First lead in 24h off 100 DMs from a 1-follower account | [Short](https://youtube.com/shorts/Sk2gVu6yjsk) |
+| [Walkthrough](https://youtu.be/xifoBSs37P0) (10:18) | Hero | Full product tour — setup to results |
+| [01](https://youtube.com/shorts/yudZjhCt2qY) (0:23) | Testimonials | Replaced two appointment setters |
+| [02](https://youtube.com/shorts/k4D9WhHkO4w) (0:35) | Testimonials | Hours of daily outreach/follow-ups/scraping now unattended |
+| [03](https://youtube.com/shorts/Sk2gVu6yjsk) (0:35) | Testimonials | First lead in 24h off 100 DMs from a 1-follower account |
 
 Feature copy is likewise limited to what the extension actually ships (v2.3.2): campaigns
 with follower/following/hashtag/custom-list targeting, spintax + placeholder templates,
@@ -49,14 +51,21 @@ log with per-outcome reasons.
 of this site advertised Zapier/Slack/Calendly integrations, calendar booking, and "30+
 booked calls a month" — none of which exist. They are gone deliberately.
 
+There is also **no pricing section** — that was removed on request, along with the nav and
+footer links to it and the `offers` array in the JSON-LD. The price still appears
+incidentally in the VA savings calculator, one FAQ answer, `terms.html` and `support.html`.
+
 ## Videos
 
-The three testimonials are embedded as click-to-load facades: a self-hosted 9:16 poster
-frame plus a play button, which swaps in a `youtube-nocookie.com` iframe on click. Nothing
-is requested from YouTube until the visitor asks for it, and hovering a card preconnects so
-playback still starts quickly.
+All four videos are click-to-load facades: a self-hosted poster frame plus a play button,
+which swaps in a `youtube-nocookie.com` iframe on click. Nothing is requested from YouTube
+until the visitor asks for it, and hovering preconnects so playback still starts quickly.
 
-To regenerate a poster frame:
+The hero walkthrough uses `.player.player-wide` (16:9); the testimonials use the base
+`.player` (9:16). The wide variant needs the doubled class for specificity — `.player` is
+defined later in the stylesheet and would otherwise win on source order.
+
+To regenerate a testimonial poster frame:
 
 ```sh
 yt-dlp -f "bv*[height<=1080]+ba/b" -o "vid.%(ext)s" "https://youtube.com/shorts/<ID>"
