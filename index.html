@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IG Outreach Pro — Personalized Instagram DMs at Scale, Safely</title>
+<meta name="description" content="A Chrome extension that sends personalized Instagram DMs at scale from your own account — smart targeting, spintax, AI drafts, automated follow-ups and six layers of account safety. Free tier, no credit card.">
+<link rel="canonical" href="https://www.igoutreachpro.com/">
+<meta name="theme-color" content="#07070B">
+<meta name="robots" content="index,follow,max-image-preview:large">
+
+<!-- Social -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="IG Outreach Pro">
+<meta property="og:url" content="https://www.igoutreachpro.com/">
+<meta property="og:title" content="You don't need more followers. You need more conversations.">
+<meta property="og:description" content="Personalized Instagram DMs at scale from your own account — smart targeting, spintax, AI drafts, automated follow-ups and six layers of account safety.">
+<meta property="og:image" content="https://www.igoutreachpro.com/assets/img/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="You don't need more followers. You need more conversations.">
+<meta name="twitter:description" content="Personalized Instagram DMs at scale — smart targeting, spintax, AI drafts, follow-ups and six safety layers. Free tier.">
+<meta name="twitter:image" content="https://www.igoutreachpro.com/assets/img/og.png">
+
+<link rel="icon" href="assets/img/icon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="assets/img/icon-128.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap">
+<link rel="stylesheet" href="assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {
+      "@type":"SoftwareApplication",
+      "name":"IG Outreach Pro",
+      "operatingSystem":"Chrome",
+      "applicationCategory":"BusinessApplication",
+      "softwareVersion":"2.3.2",
+      "url":"https://www.igoutreachpro.com/",
+      "downloadUrl":"https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon",
+      "description":"Chrome extension for sending personalized Instagram DMs at scale with smart targeting, spintax personalization, AI-assisted drafting, automated follow-ups and layered account-safety controls.",
+      "aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"4","bestRating":"5"},
+      "offers":[
+        {"@type":"Offer","name":"Free","price":"0","priceCurrency":"USD","description":"1 campaign, 10 DMs per day, no credit card"},
+        {"@type":"Offer","name":"Pro","price":"29.99","priceCurrency":"USD","description":"Unlimited campaigns and messages, billed monthly"}
+      ]
+    },
+    {
+      "@type":"FAQPage",
+      "mainEntity":[
+        {"@type":"Question","name":"Will this get my Instagram account banned?","acceptedAnswer":{"@type":"Answer","text":"No tool can promise that, and anyone who does is lying. IG Outreach Pro reduces the risk with six controls: Test Mode, Safe Start ramping, pacing presets, an hourly cap, a break schedule, and automatic opt-outs. It sends from your own logged-in session at a pace you set."}},
+        {"@type":"Question","name":"Do I need a big following?","acceptedAnswer":{"@type":"Answer","text":"No. Outreach is not reach. One customer got their first lead within 24 hours from an account with a single follower after sending 100 DMs."}},
+        {"@type":"Question","name":"Is the free plan really free?","acceptedAnswer":{"@type":"Answer","text":"Yes. The free plan gives you 1 campaign and 10 DMs per day with no credit card. Pro is $29.99/month for unlimited campaigns and messages, cancel anytime."}},
+        {"@type":"Question","name":"Where is my data stored?","acceptedAnswer":{"@type":"Answer","text":"Campaigns, templates, target lists, counters and logs are stored locally in your browser. Our server only keeps a minimal licence record. Payments are handled by Stripe; we never see your card."}},
+        {"@type":"Question","name":"Are the messages actually personalized?","acceptedAnswer":{"@type":"Answer","text":"Yes. Templates support spintax such as {Hi|Hey|Hello} plus placeholder variables, so every recipient gets a different wording. You can also generate drafts with AI by giving a tone and a goal."}}
+      ]
+    },
+    {
+      "@type":"VideoObject",
+      "name":"IG Outreach Pro customer testimonial — replaced two appointment setters",
+      "description":"A coaching business owner explains how IG Outreach Pro let him remove two appointment setters from his team.",
+      "thumbnailUrl":"https://www.igoutreachpro.com/assets/img/testimonial-1.jpg",
+      "uploadDate":"2026-08-01",
+      "duration":"PT23S",
+      "embedUrl":"https://www.youtube.com/embed/yudZjhCt2qY"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"IG Outreach Pro customer testimonial — one month in",
+      "description":"A user describes how outreach, follow-ups and lead scraping that used to take hours a day now run on their own.",
+      "thumbnailUrl":"https://www.igoutreachpro.com/assets/img/testimonial-2.jpg",
+      "uploadDate":"2026-08-01",
+      "duration":"PT35S",
+      "embedUrl":"https://www.youtube.com/embed/k4D9WhHkO4w"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"IG Outreach Pro customer testimonial — one follower, one lead, one day",
+      "description":"A user gets their first lead within 24 hours from an Instagram account with a single follower after sending 100 DMs.",
+      "thumbnailUrl":"https://www.igoutreachpro.com/assets/img/testimonial-3.jpg",
+      "uploadDate":"2026-08-01",
+      "duration":"PT35S",
+      "embedUrl":"https://www.youtube.com/embed/Sk2gVu6yjsk"
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- Icon sprite -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.14v13.72a1 1 0 0 0 1.53.85l10.9-6.86a1 1 0 0 0 0-1.7L9.53 4.29A1 1 0 0 0 8 5.14z"/></symbol>
+    <symbol id="i-chrome" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="4"/><line x1="21.17" y1="8" x2="12" y2="8"/><line x1="3.95" y1="6.06" x2="8.54" y2="14"/><line x1="10.88" y1="21.94" x2="15.46" y2="14"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.5" fill="currentColor"/></symbol>
+    <symbol id="i-msg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-9 8.4 8.5 8.5 0 0 1-3.8-.9L3 21l1.9-5.1A8.38 8.38 0 0 1 4 11.5 8.5 8.5 0 0 1 12.5 3 8.38 8.38 0 0 1 21 11.5z"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="6" y1="20" x2="6" y2="13"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="18" y1="20" x2="18" y2="9"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15.5 14"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/><path d="M18.5 15.5l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="9" y1="6" x2="20" y2="6"/><line x1="9" y1="12" x2="20" y2="12"/><line x1="9" y1="18" x2="20" y2="18"/><circle cx="4.5" cy="6" r="1.2" fill="currentColor"/><circle cx="4.5" cy="12" r="1.2" fill="currentColor"/><circle cx="4.5" cy="18" r="1.2" fill="currentColor"/></symbol>
+    <symbol id="i-sliders" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="8" x2="20" y2="8"/><line x1="4" y1="16" x2="20" y2="16"/><circle cx="9" cy="8" r="2.4"/><circle cx="16" cy="16" r="2.4"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="7" x2="21" y2="7"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="17" x2="21" y2="17"/></symbol>
+  </defs>
+</svg>
+
+<!-- ============================== NAV ============================== -->
+<header class="nav" id="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="#top" aria-label="IG Outreach Pro — home">
+      <img src="assets/img/icon-128.png" alt="" width="34" height="34">
+      <span>
+        <span class="brand-name">IG Outreach Pro</span>
+        <span class="brand-sub">by Highpoint Scaling</span>
+      </span>
+    </a>
+    <nav class="nav-links" id="navLinks" aria-label="Main">
+      <a href="#proof">Customers</a>
+      <a href="#tour">Inside the app</a>
+      <a href="#safety">Safety</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <button class="nav-burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="navLinks">
+      <svg><use href="#i-menu"/></svg>
+    </button>
+    <a class="btn btn-primary btn-sm nav-cta" href="https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon" target="_blank" rel="noopener">
+      <svg><use href="#i-chrome"/></svg> <span class="cta-long">Add to Chrome</span><span class="cta-short">Install</span>
+    </a>
+  </div>
+</header>
+
+<!-- ============================== HERO ============================== -->
+<section class="hero" id="top">
+  <div class="aurora" aria-hidden="true"><i></i></div>
+  <div class="gridlines" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="hero-grid">
+      <div>
+        <p class="pill">
+          <span class="stars" aria-hidden="true">★★★★★</span>
+          <span>5.0 on the Chrome Web Store</span>
+          <span class="tag">v2.3.2</span>
+        </p>
+        <h1>You don't need more followers.<br>You need more <span class="grad-text">conversations</span>.</h1>
+        <p class="lead lead-lg">IG Outreach Pro is a Chrome extension that sends personalized Instagram DMs at scale from your own account — real targeting, spintax that makes every message different, AI-drafted templates, automatic follow-ups, and six layers of account safety you control.</p>
+        <div class="hero-ctas">
+          <a class="btn btn-primary btn-lg" href="https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon" target="_blank" rel="noopener">
+            <svg><use href="#i-chrome"/></svg> Add to Chrome — Free
+          </a>
+          <a class="btn btn-ghost btn-lg" href="#proof">
+            <svg><use href="#i-play"/></svg> Hear 3 customers
+          </a>
+        </div>
+        <ul class="hero-assure">
+          <li><svg><use href="#i-check"/></svg> Free plan, no credit card</li>
+          <li><svg><use href="#i-check"/></svg> 10 DMs/day free forever</li>
+          <li><svg><use href="#i-check"/></svg> Runs in your browser</li>
+        </ul>
+      </div>
+
+      <!-- Live sidebar mock -->
+      <div class="mock rv rv-d2" aria-hidden="true">
+        <div class="mock-bar"><span class="dots"><i></i><i></i><i></i></span> instagram.com — IG Outreach Pro</div>
+        <div class="mock-body">
+          <span class="live">CAMPAIGN RUNNING</span>
+          <p class="mock-title">Fitness coaches — UK</p>
+          <p class="mock-meta">Followers of 6 seed accounts · Normal pacing · 18/hr cap</p>
+          <div class="mock-stats">
+            <div class="mock-stat"><b data-count="127">0</b><span>Sent today</span></div>
+            <div class="mock-stat"><b data-count="3184">0</b><span>All-time</span></div>
+            <div class="mock-stat"><b data-count="94" data-suffix="%">0</b><span>Success</span></div>
+          </div>
+          <div class="mock-bars" id="mockBars"><i style="--h:38%"></i><i style="--h:62%"></i><i style="--h:44%"></i><i style="--h:80%"></i><i style="--h:57%"></i><i style="--h:95%"></i><i style="--h:71%"></i></div>
+          <ul class="feed" id="heroFeed">
+            <li><span class="dot s"></span><span>Sent to <span class="who">@coach.marissa</span></span><span class="t">now</span></li>
+            <li><span class="dot r"></span><span>Reply from <span class="who">@leanwithsam</span></span><span class="t">1m</span></li>
+            <li><span class="dot f"></span><span>Skipped — already messaged</span><span class="t">2m</span></li>
+            <li><span class="dot s"></span><span>Follow-up to <span class="who">@thefitedit</span></span><span class="t">3m</span></li>
+            <li><span class="dot f"></span><span>Break — 12 min pause started</span><span class="t">5m</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Proof strip, pulled straight from the customer videos -->
+    <ul class="proof rv">
+      <li class="proof-cell">
+        <b>2 setters</b>
+        <p>A coaching business cut two appointment setters from payroll after switching to the extension.</p>
+        <cite>— from customer video 01, below</cite>
+      </li>
+      <li class="proof-cell">
+        <b>Hours → 0</b>
+        <p>Outreach, follow-ups and lead scraping that used to eat hours every day now run unattended.</p>
+        <cite>— from customer video 02, below</cite>
+      </li>
+      <li class="proof-cell">
+        <b>1 follower</b>
+        <p>First lead inside 24 hours, off 100 DMs, from an Instagram account with a single follower.</p>
+        <cite>— from customer video 03, below</cite>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================== VIDEO PROOF ============================== -->
+<section id="proof" class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">Unedited customer video</span>
+      <h2>Three customers. Three different reasons it stuck.</h2>
+      <p class="lead">No actors and no script — these are the recordings customers sent in. Every quote on this page is transcribed word-for-word from the clips below.</p>
+    </div>
+
+    <div class="vid-grid">
+      <!-- 01 -->
+      <article class="vid-card rv">
+        <div class="player" data-yt="yudZjhCt2qY" role="button" tabindex="0" aria-label="Play customer testimonial: he replaced two appointment setters">
+          <span class="vid-tag"><svg><use href="#i-check"/></svg> VERIFIED · 0:23</span>
+          <img src="assets/img/testimonial-1.jpg" alt="Customer recording a video testimonial about IG Outreach Pro" width="720" height="1280" loading="lazy" decoding="async">
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="vid-body">
+          <p class="vid-quote">It helped me get rid of two appointment setters</p>
+          <p class="vid-full">“He's literally helped me in my business get rid of two appointment setters with the IG Outreach Pro. Honestly, I couldn't thank him enough — and I can't believe the system worked. I highly, highly recommend anybody who's a coach who's got an appointment setter to try the system out. You'll see for yourself: it is so worth the price.”</p>
+          <div class="vid-foot">
+            <span class="vid-who"><b>Coaching business owner</b>Video 01 · 23 seconds</span>
+            <a class="vid-link" href="https://youtube.com/shorts/yudZjhCt2qY" target="_blank" rel="noopener">Watch on YouTube <svg><use href="#i-out"/></svg></a>
+          </div>
+        </div>
+      </article>
+
+      <!-- 02 -->
+      <article class="vid-card rv rv-d1">
+        <div class="player" data-yt="k4D9WhHkO4w" role="button" tabindex="0" aria-label="Play customer testimonial: one month in, hours a day saved">
+          <span class="vid-tag"><svg><use href="#i-check"/></svg> VERIFIED · 0:35</span>
+          <img src="assets/img/testimonial-2.jpg" alt="Customer recording a video testimonial about IG Outreach Pro" width="720" height="1280" loading="lazy" decoding="async">
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="vid-body">
+          <p class="vid-quote">Tasks that took me hours every day now run on their own</p>
+          <p class="vid-full">“I've been using IG Outreach Pro for a month now, and the amount of time it saved me when it comes to outreach, follow-ups, scraping the leads — it's impressive. Tasks that used to take me hours every day… now, once you set the automation, everything is done on its own. Everything is streamlined and you have more time to focus on the tasks that really matter. It's a game changer.”</p>
+          <div class="vid-foot">
+            <span class="vid-who"><b>One month in</b>Video 02 · 35 seconds</span>
+            <a class="vid-link" href="https://youtube.com/shorts/k4D9WhHkO4w" target="_blank" rel="noopener">Watch on YouTube <svg><use href="#i-out"/></svg></a>
+          </div>
+        </div>
+      </article>
+
+      <!-- 03 -->
+      <article class="vid-card rv rv-d2">
+        <div class="player" data-yt="Sk2gVu6yjsk" role="button" tabindex="0" aria-label="Play customer testimonial: first lead in a day from an account with one follower">
+          <span class="vid-tag"><svg><use href="#i-check"/></svg> VERIFIED · 0:35</span>
+          <img src="assets/img/testimonial-3.jpg" alt="Customer recording a video testimonial about IG Outreach Pro" width="720" height="1280" loading="lazy" decoding="async">
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="vid-body">
+          <p class="vid-quote">One follower. One day. One lead.</p>
+          <p class="vid-full">“Shout out for getting me one lead in the first day, from one Instagram account that has only one follower — which is crazy. I've sent a hundred DMs and the next day I got my first lead. What else can I say? Bro, listen: if you think your account is bad, my account is worse — and I can get a lead. You can get more leads than me. So do the math.”</p>
+          <div class="vid-foot">
+            <span class="vid-who"><b>Brand-new account</b>Video 03 · 35 seconds</span>
+            <a class="vid-link" href="https://youtube.com/shorts/Sk2gVu6yjsk" target="_blank" rel="noopener">Watch on YouTube <svg><use href="#i-out"/></svg></a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== THE POINT ============================== -->
+<section class="tight">
+  <div class="wrap">
+    <div class="bento">
+      <div class="tile span-3 rv">
+        <span class="tile-ico"><svg><use href="#i-target"/></svg></span>
+        <h3>Reach is not the same thing as outreach</h3>
+        <p>Growing an audience takes months and pays out in likes. Outreach starts a conversation with a specific person today. The customer in video 03 had one follower and still booked a lead in 24 hours — because he sent a hundred messages instead of waiting to be discovered.</p>
+      </div>
+      <div class="tile span-3 rv rv-d1">
+        <span class="tile-ico"><svg><use href="#i-clock"/></svg></span>
+        <h3>The work is real, it's just repetitive</h3>
+        <p>Finding accounts, opening each profile, writing something that doesn't read like a blast, remembering who you already messaged, circling back four days later. It works. It's also the exact shape of work software should be doing — which is what video 02 is describing.</p>
+      </div>
+      <div class="tile span-2 rv">
+        <span class="tile-ico"><svg><use href="#i-msg"/></svg></span>
+        <h3>Every message is different</h3>
+        <p>Spintax like <span class="mono">{Hi|Hey|Hello}</span> plus placeholder variables means no two recipients get identical text — and you can have Claude draft the variants from a tone and a goal.</p>
+      </div>
+      <div class="tile span-2 rv rv-d1">
+        <span class="tile-ico"><svg><use href="#i-shield"/></svg></span>
+        <h3>You set the pace</h3>
+        <p>Hourly caps, break schedules, warm-up ramping and a full dry run before a single real message leaves your account. Conservative by default.</p>
+      </div>
+      <div class="tile span-2 rv rv-d2">
+        <span class="tile-ico"><svg><use href="#i-chart"/></svg></span>
+        <h3>You can see what happened</h3>
+        <p>Sent, skipped, blocked and failed — each with a reason, a timestamp and a CSV export. Not a black box that reports a number and hopes you believe it.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== PRODUCT TOUR ============================== -->
+<section id="tour" class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">Inside the extension</span>
+      <h2>It's a sidebar on Instagram, not another dashboard to babysit</h2>
+      <p class="lead">Install it, open Instagram, and the panel is there. Five tabs, all of them real — this is what you actually get.</p>
+    </div>
+
+    <div class="tour rv" id="tour">
+      <div class="tour-nav" role="tablist" aria-label="Extension features">
+        <button class="tour-tab" role="tab" aria-selected="true" aria-controls="p-campaigns" id="t-campaigns" data-panel="p-campaigns">
+          <svg><use href="#i-target"/></svg><span>Campaigns<small>Who you're reaching</small></span>
+        </button>
+        <button class="tour-tab" role="tab" aria-selected="false" aria-controls="p-templates" id="t-templates" data-panel="p-templates" tabindex="-1">
+          <svg><use href="#i-sparkle"/></svg><span>Templates<small>What you're saying</small></span>
+        </button>
+        <button class="tour-tab" role="tab" aria-selected="false" aria-controls="p-results" id="t-results" data-panel="p-results" tabindex="-1">
+          <svg><use href="#i-chart"/></svg><span>Results<small>What it produced</small></span>
+        </button>
+        <button class="tour-tab" role="tab" aria-selected="false" aria-controls="p-history" id="t-history" data-panel="p-history" tabindex="-1">
+          <svg><use href="#i-list"/></svg><span>History<small>Every single send</small></span>
+        </button>
+        <button class="tour-tab" role="tab" aria-selected="false" aria-controls="p-settings" id="t-settings" data-panel="p-settings" tabindex="-1">
+          <svg><use href="#i-sliders"/></svg><span>Settings<small>Safety and pacing</small></span>
+        </button>
+      </div>
+
+      <div class="tour-panels">
+        <!-- Campaigns -->
+        <div class="tour-panel" data-on id="p-campaigns" role="tabpanel" aria-labelledby="t-campaigns" tabindex="0">
+          <h3>Point it at people who already look like your buyers</h3>
+          <p>Run several campaigns at once, each with its own target source, message and pacing. Targets come from places where intent already exists — not a random follower blast.</p>
+          <div class="chips">
+            <span class="chip"><svg><use href="#i-check"/></svg> Followers of an account</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Accounts someone follows</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Posters under a hashtag</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Your own list</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Import from PDF or Excel</span>
+          </div>
+          <div class="ui">
+            <div class="ui-head">Active campaigns</div>
+            <div class="ui-body">
+              <div class="row"><span class="k">Fitness coaches — UK <span class="badge ok">Running</span></span><span class="v">127 / 200 today</span></div>
+              <div class="row"><span class="k">Agency owners — hashtag <span class="badge info">Queued</span></span><span class="v">0 / 150 today</span></div>
+              <div class="row"><span class="k">Warm list — imported CSV <span class="badge warn">Paused</span></span><span class="v">64 / 80 today</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Templates -->
+        <div class="tour-panel" id="p-templates" role="tabpanel" aria-labelledby="t-templates" tabindex="0">
+          <h3>Write one message. Send a few hundred different ones.</h3>
+          <p>Spintax picks a different phrasing for each recipient, and placeholders drop in their details. If you'd rather not write it yourself, give the AI a tone and a goal and it drafts variants for you to edit.</p>
+          <div class="chips">
+            <span class="chip"><svg><use href="#i-check"/></svg> Spintax variations</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Placeholder variables</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> AI drafts from tone + goal</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Live preview</span>
+            <span class="chip"><svg><use href="#i-check"/></svg> Follow-up sequences</span>
+          </div>
+          <div class="ui">
+            <div class="ui-head">Template — "Coach intro"</div>
+            <div class="ui-body">
+              <p class="msg"><span class="spin">{Hey|Hi|Yo}</span> <span class="var">{{first_name}}</span> — saw you're coaching <span class="var">{{niche}}</span>. <span class="spin">{Quick question|One quick thing}</span>: are you taking on new 1:1 clients this month? <span class="spin">{No pitch, just curious.|Happy to share what's working for us.}</span></p>
+              <div class="row" style="margin-top:14px"><span class="k">Unique variations from this template</span><span class="v">36</span></div>
+              <div class="row"><span class="k">Follow-up #1</span><span class="v">+4 days, if no reply</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Results -->
+        <div class="tour-panel" id="p-results" role="tabpanel" aria-labelledby="t-results" tabindex="0">
+          <h3>Four numbers and a seven-day line</h3>
+          <p>Sent today, all-time, success rate, people reached — plus a rolling sparkline so you can see whether this week is actually better than last week. Export the whole thing to CSV whenever you want it somewhere else.</p>
+          <div class="ui">
+            <div class="ui-head">Last 7 days</div>
+            <div class="ui-body">
+              <div class="spark" id="spark">
+                <i style="height:34%"><span>62</span></i><i style="height:52%"><span>94</span></i><i style="height:41%"><span>74</span></i>
+                <i style="height:78%"><span>141</span></i><i style="height:60%"><span>108</span></i><i style="height:96%"><span>173</span></i><i style="height:70%"><span>127</span></i>
+              </div>
+              <div class="row"><span class="k">Sent today</span><span class="v">127</span></div>
+              <div class="row"><span class="k">All-time</span><span class="v">3,184</span></div>
+              <div class="row"><span class="k">Success rate</span><span class="v">94%</span></div>
+              <div class="row"><span class="k">Export</span><span class="v">CSV</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- History -->
+        <div class="tour-panel" id="p-history" role="tabpanel" aria-labelledby="t-history" tabindex="0">
+          <h3>Every send, with the reason it went that way</h3>
+          <p>Filter by outcome and by reason. When something gets skipped you find out it was a duplicate, a private account or an opt-out — you don't have to guess. Memory holds 10,000+ usernames, so nobody gets the same opener twice.</p>
+          <div class="ui">
+            <div class="ui-head">Send log</div>
+            <div class="ui-body">
+              <div class="row"><span class="k">@coach.marissa</span><span class="v"><span class="badge ok">Sent</span></span></div>
+              <div class="row"><span class="k">@leanwithsam</span><span class="v"><span class="badge ok">Sent</span></span></div>
+              <div class="row"><span class="k">@thefitedit</span><span class="v"><span class="badge warn">Skipped — already messaged</span></span></div>
+              <div class="row"><span class="k">@privateaccount</span><span class="v"><span class="badge warn">Skipped — can't DM</span></span></div>
+              <div class="row"><span class="k">@studio.kai</span><span class="v"><span class="badge info">Skipped — opted out</span></span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Settings -->
+        <div class="tour-panel" id="p-settings" role="tabpanel" aria-labelledby="t-settings" tabindex="0">
+          <h3>The safety controls are the product</h3>
+          <p>Everything that affects how hard your account gets pushed lives on one screen, and all of it is yours to change. Presets fill the fields in; you can still override every one.</p>
+          <div class="ui">
+            <div class="ui-head">Safety</div>
+            <div class="ui-body">
+              <div class="row"><span class="k">Test Mode <small style="color:var(--ink-4)">— simulates sending, nothing leaves</small></span><span class="v"><span class="badge info">Off</span></span></div>
+              <div class="row"><span class="k">Safe Start <small style="color:var(--ink-4)">— ramps a new account up gradually</small></span><span class="v"><span class="badge ok">On</span></span></div>
+              <div class="row"><span class="k">Pacing preset</span><span class="v">Normal (balanced)</span></div>
+              <div class="row"><span class="k">Max messages per hour</span><span class="v">18</span></div>
+              <div class="row"><span class="k">Break schedule</span><span class="v">Every 25 sends, pause 12 min</span></div>
+              <div class="row"><span class="k">Auto opt-out</span><span class="v">12 languages</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== SAFETY ============================== -->
+<section id="safety" class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">Account safety</span>
+      <h2>The honest version of the ban question</h2>
+      <p class="lead">No tool can promise your account is safe, and any tool that does is lying to you. What a tool can do is give you the controls to send like a careful person instead of a machine — and default to the cautious setting. Here is every control, in plain language.</p>
+    </div>
+    <div class="layers">
+      <div class="layer rv"><span class="n">LAYER 01</span><h3>Test Mode</h3><p>A full dry run. The campaign walks the whole target list and logs what it <em>would</em> have done — no message actually leaves your account. Use it before every new template.</p></div>
+      <div class="layer rv rv-d1"><span class="n">LAYER 02</span><h3>Safe Start</h3><p>Raises your daily volume gradually instead of going from zero to hundreds overnight. Recommended on any account that hasn't sent much DM traffic before.</p></div>
+      <div class="layer rv rv-d2"><span class="n">LAYER 03</span><h3>Pacing presets</h3><p>Conservative, Normal or Aggressive — each fills in the timing fields for you. They're a starting point, not a lock: every field stays editable afterwards.</p></div>
+      <div class="layer rv"><span class="n">LAYER 04</span><h3>Hourly cap</h3><p>A hard ceiling on messages per hour. The queue waits rather than bursting, so your sending pattern stays flat instead of spiking.</p></div>
+      <div class="layer rv rv-d1"><span class="n">LAYER 05</span><h3>Break schedule</h3><p>After every N sends the campaign pauses for a set number of minutes. Nobody sends two hundred messages without putting the phone down, and neither does this.</p></div>
+      <div class="layer rv rv-d2"><span class="n">LAYER 06</span><h3>Automatic opt-outs</h3><p>Anyone whose reply is just "stop" — recognised in English, Spanish, Portuguese, French, German, Italian, Dutch, Turkish, Indonesian, Russian, Arabic and Hindi, accents or not — is never messaged again. You can add people manually too.</p></div>
+    </div>
+    <div class="tile span-6 rv" style="margin-top:20px">
+      <span class="tile-ico"><svg><use href="#i-shield"/></svg></span>
+      <h3>Plus duplicate memory, and your data stays on your machine</h3>
+      <p>The extension remembers 10,000+ usernames you've already contacted, so a second campaign can't re-open the same conversation. Campaigns, templates, target lists, counters and logs all live in your browser's local storage — our server only holds a minimal licence record. Imported PDF and Excel lists are parsed in the browser and never uploaded. Full detail in the <a href="privacy.html" style="color:#FF87B4;text-decoration:underline;text-underline-offset:3px">privacy policy</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== HOW ============================== -->
+<section class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">Getting started</span>
+      <h2>Sending in about five minutes</h2>
+    </div>
+    <div class="steps">
+      <div class="step rv">
+        <h3>Install and open Instagram</h3>
+        <p>Add it from the Chrome Web Store and go to Instagram as normal. The sidebar appears on the page. There's no separate account to create and nothing to connect — it works inside the session you're already logged into.</p>
+      </div>
+      <div class="step rv rv-d1">
+        <h3>Pick a target and write one message</h3>
+        <p>Choose a source — followers of an account, a hashtag, or your own list — then write a template with a couple of spintax options, or have the AI draft it. Run it in Test Mode first and read the log.</p>
+      </div>
+      <div class="step rv rv-d2">
+        <h3>Turn Test Mode off and let it work</h3>
+        <p>It sends at the pace you set, pauses for breaks, skips anyone you've already contacted, and fires follow-ups on schedule. You check the Results tab; it handles the rest.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== VS ============================== -->
+<section class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">The alternative</span>
+      <h2>What the customer in video 01 was paying for</h2>
+      <p class="lead">He had two appointment setters doing this by hand. Here's the comparison he was making when he cancelled them.</p>
+    </div>
+    <div class="compare rv">
+      <div class="tscroll">
+        <table>
+          <thead><tr><th></th><th>An appointment setter</th><th>IG Outreach Pro</th></tr></thead>
+          <tbody>
+            <tr><td>Monthly cost</td><td>$800–$1,500 each</td><td>$29.99 flat, or free to start</td></tr>
+            <tr><td>Working hours</td><td>Their working day, their timezone</td><td>Whenever your browser is open</td></tr>
+            <tr><td>Messages per day</td><td>40–80 typed by hand</td><td>Whatever cap you set</td></tr>
+            <tr><td>Follow-ups</td><td><span class="x">✕</span>Forgotten under load</td><td><span class="c">✓</span>Scheduled, fires every time</td></tr>
+            <tr><td>Duplicate contacts</td><td><span class="x">✕</span>Depends on their spreadsheet</td><td><span class="c">✓</span>10,000+ username memory</td></tr>
+            <tr><td>Ramping up</td><td>Post, interview, hire, train</td><td>About five minutes</td></tr>
+            <tr><td>Audit trail</td><td><span class="x">✕</span>Whatever they logged</td><td><span class="c">✓</span>Every send, reason and timestamp</td></tr>
+            <tr><td>Turnover</td><td>They can quit; you start over</td><td>It doesn't</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="calc rv" style="margin-top:44px">
+      <label for="vaSlider">What one setter costs you per month</label>
+      <input type="range" id="vaSlider" min="400" max="3000" step="50" value="1200" aria-describedby="calcNote">
+      <div class="calc-val" id="vaMonthly">$1,200</div>
+      <div class="calc-grid">
+        <div class="cell"><small>SETTER, PER YEAR</small><b id="vaYear">$14,400</b></div>
+        <div class="cell"><small>IG OUTREACH PRO, PER YEAR</small><b>$360</b></div>
+        <div class="cell win"><small>DIFFERENCE</small><b id="youKeep">$14,040</b></div>
+      </div>
+      <p class="calc-note" id="calcNote"><strong id="keepInline">$14,040</strong> a year, for the part of their job that was copy, paste and remember.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== PRICING ============================== -->
+<section id="pricing" class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">Pricing</span>
+      <h2>Start free. Upgrade only if it works.</h2>
+      <p class="lead">The free plan isn't a countdown timer — it's a real, permanent plan. Ten messages a day is enough to find out whether this fits your offer before you pay anything.</p>
+    </div>
+    <div class="plans">
+      <div class="plan rv">
+        <p class="plan-name">FREE</p>
+        <p class="price">$0<small> / forever</small></p>
+        <p class="plan-sub">No credit card. No trial clock.</p>
+        <ul class="checks">
+          <li><svg><use href="#i-check"/></svg> 10 DMs per day</li>
+          <li><svg><use href="#i-check"/></svg> 1 campaign</li>
+          <li><svg><use href="#i-check"/></svg> All targeting sources</li>
+          <li><svg><use href="#i-check"/></svg> Spintax and placeholders</li>
+          <li><svg><use href="#i-check"/></svg> All six safety controls</li>
+          <li><svg><use href="#i-check"/></svg> Test Mode and full logs</li>
+        </ul>
+        <a class="btn btn-ghost btn-block" href="https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon" target="_blank" rel="noopener">Install free</a>
+        <p class="plan-foot">Takes about a minute</p>
+      </div>
+
+      <div class="plan hero-plan rv rv-d1">
+        <span class="plan-flag">MOST POPULAR</span>
+        <p class="plan-name">PRO</p>
+        <p class="price">$29.99<small> / month</small></p>
+        <p class="plan-sub">Cancel anytime, from the billing portal.</p>
+        <ul class="checks">
+          <li><svg><use href="#i-check"/></svg> <strong>Unlimited</strong> messages per day</li>
+          <li><svg><use href="#i-check"/></svg> <strong>Unlimited</strong> campaigns, running together</li>
+          <li><svg><use href="#i-check"/></svg> AI-drafted templates from tone + goal</li>
+          <li><svg><use href="#i-check"/></svg> Automated follow-up sequences</li>
+          <li><svg><use href="#i-check"/></svg> Reply scanning and lead triage</li>
+          <li><svg><use href="#i-check"/></svg> CSV export and web dashboard sync</li>
+        </ul>
+        <a class="btn btn-primary btn-block" href="https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon" target="_blank" rel="noopener">
+          <svg><use href="#i-chrome"/></svg> Get Pro
+        </a>
+        <p class="plan-foot">Install first — upgrade from inside the extension</p>
+      </div>
+    </div>
+    <ul class="assure rv">
+      <li><svg><use href="#i-check"/></svg> Payments handled by Stripe</li>
+      <li><svg><use href="#i-check"/></svg> No contract</li>
+      <li><svg><use href="#i-check"/></svg> Your data stays local</li>
+      <li><svg><use href="#i-check"/></svg> Cancel in two clicks</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================== FAQ ============================== -->
+<section id="faq" class="tight">
+  <div class="wrap">
+    <div class="sec-head center rv">
+      <span class="kicker">Questions</span>
+      <h2>The things people actually ask</h2>
+    </div>
+    <div class="faq rv">
+      <details>
+        <summary>Will this get my Instagram account banned?</summary>
+        <div class="ans">
+          <p>Nobody can promise you it won't, and you should be suspicious of any tool that does. Automated DMs are against Instagram's terms, and the risk is never zero.</p>
+          <p>What this extension does is give you the controls to send carefully and default them to cautious: a full dry run in Test Mode, gradual warm-up with Safe Start, a hard hourly cap, scheduled breaks, conservative pacing presets, and automatic opt-outs. It sends from your own logged-in session at a pace you choose. Start slow, watch the log, and raise the numbers only when nothing looks off.</p>
+        </div>
+      </details>
+      <details>
+        <summary>Do I need a big following for this to work?</summary>
+        <div class="ans"><p>No — and video 03 above is the clearest evidence we have. That customer had a single follower on the account, sent a hundred DMs, and had a lead the next day. Outreach doesn't depend on people finding you; it depends on you starting conversations with the right people.</p></div>
+      </details>
+      <details>
+        <summary>Are the messages actually personalized, or is it a blast?</summary>
+        <div class="ans"><p>Templates use spintax — <span class="mono">{Hi|Hey|Hello}</span> style alternatives at any point in the message — plus placeholder variables for the recipient's details. A template with a handful of spin points produces dozens of genuinely different messages. You can also give the AI a tone and a goal and have it draft the variants, then edit them. The preview shows you exactly what a recipient sees before anything sends.</p></div>
+      </details>
+      <details>
+        <summary>What can I target?</summary>
+        <div class="ans"><p>Followers of a specific account, the accounts a profile follows, people posting under a hashtag, or your own list. You can also import a target list from a PDF or Excel file — those are parsed inside your browser and never uploaded anywhere.</p></div>
+      </details>
+      <details>
+        <summary>What happens to my data?</summary>
+        <div class="ans"><p>Campaigns, templates, target lists, counters, send memory and logs are stored locally in your browser. Our server keeps only a minimal licence record — your Google account ID, email, subscription status and Stripe customer ID. We don't store your messages or your target lists. Payments go through Stripe, so we never see your card. The one exception is the optional AI features, which send the context you provide to Anthropic's Claude API to draft or classify; if you don't use them, nothing message-related ever leaves your machine. The <a href="privacy.html">privacy policy</a> spells out every party involved.</p></div>
+      </details>
+      <details>
+        <summary>Is the free plan a trial?</summary>
+        <div class="ans"><p>No. It's a permanent plan: one campaign and ten messages a day, no credit card, no expiry. Pro removes the caps for $29.99 a month and you can cancel from the Stripe billing portal whenever you like.</p></div>
+      </details>
+      <details>
+        <summary>Does it keep running when I close my laptop?</summary>
+        <div class="ans"><p>No. It's a browser extension that works inside your own Instagram session, so it sends while Chrome is open on that tab. That's also why it behaves like you do rather than like a server farm. Campaign progress is saved, so it picks up where it stopped when you come back.</p></div>
+      </details>
+      <details>
+        <summary>Is this affiliated with Instagram?</summary>
+        <div class="ans"><p>No. IG Outreach Pro is an independent tool built by Highpoint Scaling. It is not affiliated with, endorsed by, or connected to Instagram or Meta Platforms in any way.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FINAL ============================== -->
+<section class="tight">
+  <div class="wrap">
+    <div class="banner rv">
+      <span class="kicker" style="justify-content:center">Ten messages a day, free</span>
+      <h2>Find out this week whether it works<br>for <span class="grad-text">your</span> offer.</h2>
+      <p class="lead">Install it, run one campaign in Test Mode, read the log, then send ten real messages. That's the whole evaluation — and it costs nothing.</p>
+      <a class="btn btn-primary btn-lg" href="https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon" target="_blank" rel="noopener">
+        <svg><use href="#i-chrome"/></svg> Add to Chrome — Free
+      </a>
+      <p class="fine" style="margin-top:18px">Questions? <a href="mailto:highpointscaling@gmail.com" style="color:var(--ink-2);text-decoration:underline;text-underline-offset:3px">highpointscaling@gmail.com</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FOOTER ============================== -->
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-about">
+        <a class="brand" href="#top">
+          <img src="assets/img/icon-128.png" alt="" width="34" height="34">
+          <span><span class="brand-name">IG Outreach Pro</span><span class="brand-sub">by Highpoint Scaling</span></span>
+        </a>
+        <p>A Chrome extension for personalized Instagram outreach at scale, with the safety controls in your hands and your data on your machine.</p>
+      </div>
+      <div class="foot-col">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="#tour">Inside the app</a></li>
+          <li><a href="#safety">Account safety</a></li>
+          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon" target="_blank" rel="noopener">Chrome Web Store</a></li>
+        </ul>
+      </div>
+      <div class="foot-col">
+        <h4>Customers</h4>
+        <ul>
+          <li><a href="#proof">All three videos</a></li>
+          <li><a href="https://youtube.com/shorts/yudZjhCt2qY" target="_blank" rel="noopener">Video 01</a></li>
+          <li><a href="https://youtube.com/shorts/k4D9WhHkO4w" target="_blank" rel="noopener">Video 02</a></li>
+          <li><a href="https://youtube.com/shorts/Sk2gVu6yjsk" target="_blank" rel="noopener">Video 03</a></li>
+        </ul>
+      </div>
+      <div class="foot-col">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="support.html">Support</a></li>
+          <li><a href="privacy.html">Privacy policy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+          <li><a href="mailto:highpointscaling@gmail.com">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-base">
+      <p>© <span id="yr">2026</span> IG Outreach Pro — a Highpoint Scaling product.</p>
+      <p>Built for people who'd rather talk to buyers than chase followers.</p>
+    </div>
+    <p class="disclaimer">IG Outreach Pro is an independent tool and is not affiliated with, endorsed by, or connected to Instagram or Meta Platforms, Inc. Automating direct messages may conflict with Instagram's terms of service; you are responsible for how you use the extension and for the volume you configure. Customer results shown on this page are individual experiences quoted from the video testimonials above and are not a guarantee of similar outcomes.</p>
+  </div>
+</footer>
+
+<script src="assets/js/site.js" defer></script>
+</body>
+</html>
