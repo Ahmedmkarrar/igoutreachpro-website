@@ -19,7 +19,7 @@ robots.txt          Allows all, points at the sitemap
 sitemap.xml         Four URLs
 assets/
   css/site.css      The entire design system (tokens → components → responsive)
-  js/site.js        Nav, scroll reveal, counters, YouTube facade, tour tabs, calculator
+  js/site.js        Nav, scroll reveal, YouTube facade, tour tabs, savings calculator
   img/
     demo-poster.jpg    16:9 poster for the hero walkthrough
     testimonial-*.jpg  9:16 poster frames extracted from the customer videos
