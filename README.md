@@ -35,10 +35,10 @@ the framing of the comparison and FAQ sections:
 
 | Video | Where | Claim used |
 | --- | --- | --- |
-| [Walkthrough](https://youtu.be/xifoBSs37P0) (10:18) | Hero | Full product tour — setup to results |
-| [01](https://youtube.com/shorts/yudZjhCt2qY) (0:23) | Testimonials | Replaced two appointment setters |
-| [02](https://youtube.com/shorts/k4D9WhHkO4w) (0:35) | Testimonials | Hours of daily outreach/follow-ups/scraping now unattended |
-| [03](https://youtube.com/shorts/Sk2gVu6yjsk) (0:35) | Testimonials | First lead in 24h off 100 DMs from a 1-follower account |
+| [Walkthrough](https://youtu.be/oaMltDkfA-E) (10:18) | Hero | Full product tour — setup to results |
+| [01](https://youtube.com/shorts/4QfbFwU-nrU) (0:23) | Testimonials | Replaced two appointment setters |
+| [02](https://youtube.com/shorts/X1p0nB10GHw) (0:35) | Testimonials | Hours of daily outreach/follow-ups/scraping now unattended |
+| [03](https://youtube.com/shorts/V023sIzUbjE) (0:35) | Testimonials | First lead in 24h off 100 DMs from a 1-follower account |
 
 Feature copy is likewise limited to what the extension actually ships (v2.3.2): campaigns
 with follower/following/hashtag/custom-list targeting, spintax + placeholder templates,
