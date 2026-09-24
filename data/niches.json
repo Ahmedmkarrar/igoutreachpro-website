@@ -1,0 +1,447 @@
+{
+ "coaches": {
+  "label": "Coaches' clients",
+  "slug": "coaches",
+  "title": "Instagram DM Templates for Coaches",
+  "h1": "Instagram DM templates for coaches",
+  "audience": "coaches",
+  "reach": "potential clients",
+  "intro": "Six copy-and-paste DM templates for fitness, health, life and business coaches who find clients on Instagram. Every one uses spintax, so each person you message gets different wording instead of the same copied script.",
+  "tips": [
+   [
+    "Lead with them, not your offer",
+    "Your first message should be about their post, their goal or their situation. The pitch can wait until they reply."
+   ],
+   [
+    "Target people already looking",
+    "Followers of bigger coaches in your niche and people posting journey hashtags already want the result you sell."
+   ],
+   [
+    "Follow up twice, then stop",
+    "Most replies come from the first or second follow-up. A third is pushy; let the sequence end."
+   ],
+   [
+    "Test on a small batch first",
+    "Run 10 to 20 messages in Test Mode, read the previews, then scale the version that sounds most like you."
+   ]
+  ],
+  "targets": [
+   "followers of @topcoachinyourniche",
+   "people posting #weightlossjourney",
+   "people posting #fitnessmotivation",
+   "your imported lead list"
+  ],
+  "people": [
+   [
+    "sarah.fitjourney",
+    "Sarah Miller",
+    14
+   ],
+   [
+    "mike_lifts",
+    "Mike Chen",
+    200
+   ],
+   [
+    "jess.healthy.mama",
+    "Jess Owens",
+    320
+   ],
+   [
+    "dan.runs.miles",
+    "Dan Brooks",
+    90
+   ]
+  ],
+  "reply": "Honestly yes, been stuck for months 😅",
+  "templates": [
+   {
+    "name": "Soft opener",
+    "when": "First touch, no pitch",
+    "text": "{Hey|Hi|Yo} {firstname}! {Saw|Noticed} your post about your {fitness|health} journey, {love|really respect} the consistency. {Quick question|Curious}: what's the {one thing|biggest thing} holding you back right now?"
+   },
+   {
+    "name": "Value-first",
+    "when": "When they posted recently",
+    "text": "{Hey|Hi} {firstname}, {loved|enjoyed} your latest post. I {coach|help} people {just like you|in the same spot} hit their goals without {crash diets|burning out}. {Want|Would it help if I sent} a free {plan|breakdown} for your situation?"
+   },
+   {
+    "name": "Story reply",
+    "when": "Replying to a story",
+    "text": "{Haha|Love} this {story|one} {firstname}! {Random question|Quick one}: are you {working on|focused on} any {fitness|health} goals {right now|this month}?"
+   },
+   {
+    "name": "Client result",
+    "when": "When you have a case study",
+    "text": "{Hey|Hi} {firstname}, I just helped a client [result] in [timeframe] without {giving up the foods they love|living in the gym}. {Would it be weird if I shared how|Want me to send you what we did}?"
+   },
+   {
+    "name": "Follow-up #1",
+    "when": "+3 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {just bumping this|circling back} in case it got buried. {No pressure at all|Totally fine if not}, just thought {it could help|you'd find it useful} 🙌"
+   },
+   {
+    "name": "Last follow-up",
+    "when": "+7 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {last one from me|I'll leave it here}! If {now's not the time|the timing's off}, {no worries at all|totally get it}. {Door's always open|I'm here whenever} 💪"
+   }
+  ],
+  "crumb": "Coaches"
+ },
+ "agencies": {
+  "label": "Business owners",
+  "slug": "agencies",
+  "title": "Instagram DM Templates for Agencies",
+  "h1": "Instagram DM templates for agencies",
+  "audience": "agencies and freelancers",
+  "reach": "business owners",
+  "intro": "Six cold DM templates for marketing agencies, freelancers and consultants who land clients by messaging business owners on Instagram. Each one spins its wording so no two owners get an identical pitch.",
+  "tips": [
+   [
+    "Say something only they would recognise",
+    "Mention their business, their feed or a gap you noticed. Generic compliments read as spam."
+   ],
+   [
+    "Ask a question, don't pitch",
+    "A question about how they get customers opens a conversation; a price list in the first DM closes it."
+   ],
+   [
+    "Pick one local niche",
+    "Salons, barbers, dentists, gyms: a narrow list makes every template easier to personalise."
+   ],
+   [
+    "Move to a call quickly",
+    "Once they reply with interest, offer a short call instead of a long DM thread."
+   ]
+  ],
+  "targets": [
+   "people posting #smallbusinessowner",
+   "followers of @yourcompetitoragency",
+   "accounts @localchamber follows",
+   "your imported lead list"
+  ],
+  "people": [
+   [
+    "bloom.bakery.co",
+    "Anna Rossi",
+    20
+   ],
+   [
+    "northside.barbers",
+    "Jay Patel",
+    210
+   ],
+   [
+    "luxe.lash.studio",
+    "Nina Park",
+    330
+   ],
+   [
+    "peak.plumbing",
+    "Tom Hale",
+    120
+   ]
+  ],
+  "reply": "Maybe, what would that look like?",
+  "templates": [
+   {
+    "name": "Compliment + question",
+    "when": "First touch",
+    "text": "{Hey|Hi} {firstname}! {Came across|Found} {username} and {love|really like} what you're building. {Quick question|Curious}: are you getting most of your {customers|clients} from Instagram {yet|right now}, or mostly word of mouth?"
+   },
+   {
+    "name": "Noticed a gap",
+    "when": "First touch",
+    "text": "{Hey|Hi} {firstname}, {quick one|small thing}: {noticed|saw} your {bio link|profile} doesn't {have a booking link|make it easy to book}. {Want|Mind if I send} a {30-second|quick} {tip|fix} that {usually|often} gets {more bookings|more enquiries}?"
+   },
+   {
+    "name": "Specific offer",
+    "when": "After they reply",
+    "text": "{Makes sense|Totally get it}. We {help|work with} businesses like yours {turn followers into bookings|get more booked appointments from Instagram}. {Open to|Up for} a {quick|10-min} call this week to see if it's a fit?"
+   },
+   {
+    "name": "Social proof",
+    "when": "When you have a similar client",
+    "text": "{Hey|Hi} {firstname}! We just {helped|worked with} a {similar|local} business [result]. {Thought of you|You came to mind} because {username} {already has great content|has a great feed}. {Worth a quick chat|Open to hearing how}?"
+   },
+   {
+    "name": "Follow-up #1",
+    "when": "+4 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {just floating this back up|circling back}. {Happy to|I can} send over {a quick example|what we did for a similar business} if {helpful|you're curious}."
+   },
+   {
+    "name": "Last follow-up",
+    "when": "+8 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {I'll stop here|last message from me}! If {growing on Instagram|more bookings} ever {becomes a priority|moves up the list}, {just reply to this|my DMs are open}. {Good luck with everything|Rooting for you}!"
+   }
+  ],
+  "crumb": "Agencies"
+ },
+ "realestate": {
+  "label": "Home buyers",
+  "slug": "real-estate-agents",
+  "title": "Instagram DM Templates for Real Estate Agents",
+  "h1": "Instagram DM templates for real estate agents",
+  "audience": "real estate agents",
+  "reach": "buyers and sellers",
+  "intro": "Six Instagram DM templates for realtors and estate agents reaching buyers, sellers and first-time movers. Spintax keeps every message sounding personal, even when you send them to a whole hashtag.",
+  "tips": [
+   [
+    "Be the local expert, not a salesperson",
+    "Offer something useful, like an off-market list or a quick valuation, before asking for anything."
+   ],
+   [
+    "Target intent hashtags",
+    "People posting about house hunting, moving or renovating are already in the market."
+   ],
+   [
+    "Keep it about their move",
+    "Ask about their timeline and area. Buyers reply to questions about their plans, not about your listings."
+   ],
+   [
+    "Follow up slowly",
+    "Property decisions take time. Space follow-ups five to seven days apart."
+   ]
+  ],
+  "targets": [
+   "people posting #firsttimehomebuyer",
+   "followers of @localhomedecor",
+   "people posting #househunting",
+   "your imported lead list"
+  ],
+  "people": [
+   [
+    "emma.and.josh",
+    "Emma Walsh",
+    340
+   ],
+   [
+    "priya.designs",
+    "Priya Nair",
+    30
+   ],
+   [
+    "the.hendersons",
+    "Carl Henderson",
+    190
+   ],
+   [
+    "newhome.nate",
+    "Nate Ross",
+    100
+   ]
+  ],
+  "reply": "Yes! We're looking in the spring actually",
+  "templates": [
+   {
+    "name": "Local opener",
+    "when": "First touch",
+    "text": "{Hey|Hi} {firstname}! {Saw|Noticed} you're {house hunting|looking at homes}, {exciting|such a fun stage}! {Are you|Are you guys} {looking in the area|set on a neighbourhood} yet, or still {exploring|figuring it out}?"
+   },
+   {
+    "name": "Helpful resource",
+    "when": "After they reply",
+    "text": "{Love that|Amazing}. I put together a {free|quick} {guide|list} of {homes that haven't hit the market yet|off-market listings} in {the area|your area}. {Want me to send it over|Should I send it}?"
+   },
+   {
+    "name": "New listing",
+    "when": "When you list a match",
+    "text": "{Hey|Hi} {firstname}! {Just listed|We just got} a {place|home} {that fits|you might love}: [area / key feature]. {Want the details before it goes public|Should I send you the photos}?"
+   },
+   {
+    "name": "Seller opener",
+    "when": "Reaching homeowners",
+    "text": "{Hey|Hi} {firstname}, {curious|random question}: have you {ever thought about|considered} what your {home|place} {would sell for|is worth} in today's market? {Happy to|I can} run a {free|quick} valuation, {no strings|zero pressure}."
+   },
+   {
+    "name": "Follow-up #1",
+    "when": "+5 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {just checking in|circling back}. {No rush at all|Zero pressure}, just here if you {have questions|want a second opinion} on anything {house related|in the market} 🏡"
+   },
+   {
+    "name": "Last follow-up",
+    "when": "+10 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {I'll leave it here|last one from me}! {Whenever|If} you're ready to {start looking|make a move}, {I'd love to help|I'm one message away}. {Good luck with the search|Happy hunting}! 🔑"
+   }
+  ],
+  "crumb": "Real estate agents"
+ },
+ "creators": {
+  "label": "Creators",
+  "slug": "influencer-outreach",
+  "title": "Influencer Outreach DM Templates for Instagram",
+  "h1": "Influencer outreach DM templates",
+  "audience": "brands",
+  "reach": "creators and influencers",
+  "intro": "Six Instagram DM templates for brands and e-commerce stores reaching creators for UGC, gifting, paid collabs and affiliate deals. Every template spins its wording so creators don't get the same copy-paste pitch they see fifty times a week.",
+  "tips": [
+   [
+    "Show you actually watched their content",
+    "Name a video or a style detail. Creators ignore pitches that could have gone to anyone."
+   ],
+   [
+    "Be upfront about the deal",
+    "Say whether it's paid, gifted or affiliate in the first or second message. Vague offers get ignored."
+   ],
+   [
+    "Go micro",
+    "Creators with 5k to 50k followers reply far more often and usually have better engagement."
+   ],
+   [
+    "Make saying yes easy",
+    "Ask one simple question: their rate, or where to send the product."
+   ]
+  ],
+  "targets": [
+   "people posting #ugccreator",
+   "followers of @brandinyourspace",
+   "people posting #contentcreator",
+   "your imported lead list"
+  ],
+  "people": [
+   [
+    "maya.creates",
+    "Maya Lopez",
+    300
+   ],
+   [
+    "kai.films",
+    "Kai Turner",
+    180
+   ],
+   [
+    "glowwithzoe",
+    "Zoe Adams",
+    330
+   ],
+   [
+    "alex.makes.stuff",
+    "Alex Kim",
+    40
+   ]
+  ],
+  "reply": "Love that! What's the brief?",
+  "templates": [
+   {
+    "name": "Collab opener",
+    "when": "First touch",
+    "text": "{Hey|Hi} {firstname}! {Big fan|Loving} your {content|videos}, the {editing|style} is {so good|next level}. We're {looking for|lining up} creators for a {paid collab|paid campaign}. {Open to it|Interested}?"
+   },
+   {
+    "name": "Details",
+    "when": "After they reply",
+    "text": "{Amazing|Love it}! It's {2|3} short videos for {our launch|a new product}, {paid|budget is flexible}. {What are your rates|Do you have a rate card} for {something like that|that}?"
+   },
+   {
+    "name": "Gifting",
+    "when": "Product seeding",
+    "text": "{Hey|Hi} {firstname}! {We'd love to|Can we} send you [product] {to try|for free}, {no strings attached|no posting required}. {Want one|Should I grab your address}? 🎁"
+   },
+   {
+    "name": "Affiliate invite",
+    "when": "Performance deals",
+    "text": "{Hey|Hi} {firstname}, {your audience|your followers} {would love|seem perfect for} [product]. We {run|offer} a {creator|affiliate} program with [commission]. {Want the details|Open to hearing more}?"
+   },
+   {
+    "name": "Follow-up #1",
+    "when": "+3 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {just bumping this|following up} in case it got lost in requests! {Still keen to|Would love to} work with you on this ✨"
+   },
+   {
+    "name": "Last follow-up",
+    "when": "+7 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {last nudge from me|I'll leave it here}! If {the timing's not right|you're booked up}, {no worries|totally understand}. {Would love to work together another time|Keep creating}! 🙌"
+   }
+  ],
+  "crumb": "Influencer outreach"
+ },
+ "local": {
+  "label": "Locals",
+  "slug": "local-businesses",
+  "title": "Instagram DM Templates for Local Businesses",
+  "h1": "Instagram DM templates for local businesses",
+  "audience": "local businesses",
+  "reach": "people nearby",
+  "intro": "Six Instagram DM templates for restaurants, cafés, salons, gyms and studios reaching people in their area. Spintax makes each invite feel personal, so it reads like a neighbour saying hello rather than an ad.",
+  "tips": [
+   [
+    "Use location hashtags",
+    "People posting your city's food, fitness or lifestyle hashtags are the easiest locals to reach."
+   ],
+   [
+    "Give a reason to come in",
+    "A free first visit, a launch night or a local-only offer converts far better than 'check us out'."
+   ],
+   [
+    "Keep it warm and short",
+    "Two or three sentences, one emoji at most, and a clear yes-or-no question."
+   ],
+   [
+    "Ask happy customers for reviews",
+    "Message people who tagged you and ask for a quick review. It compounds."
+   ]
+  ],
+  "targets": [
+   "people posting #austinfoodie",
+   "followers of @yourcityeats",
+   "accounts @localgym follows",
+   "your imported lead list"
+  ],
+  "people": [
+   [
+    "lily.eats.atx",
+    "Lily Grant",
+    10
+   ],
+   [
+    "ben.around.town",
+    "Ben Cole",
+    220
+   ],
+   [
+    "sofia.sips",
+    "Sofia Marin",
+    300
+   ],
+   [
+    "coffee.with.cam",
+    "Cam Reid",
+    30
+   ]
+  ],
+  "reply": "Ooh yes, when?",
+  "templates": [
+   {
+    "name": "Neighbour opener",
+    "when": "First touch",
+    "text": "{Hey|Hi} {firstname}! {Saw|Noticed} you're {local|in the area} and {love|into} {good food|trying new spots}. We just {opened|launched} {down the road|nearby}, {first visit is on us|want a free first visit}? 😊"
+   },
+   {
+    "name": "Event invite",
+    "when": "Seasonal push",
+    "text": "{Hey|Hi} {firstname}, we're {hosting|throwing} a {little|small} {launch night|locals night} this {Friday|weekend}. {Would love to see you there|You should come by}! {Want me to save you a spot|Should I put your name down}?"
+   },
+   {
+    "name": "Local partnership",
+    "when": "Reaching nearby businesses",
+    "text": "{Hey|Hi} {firstname}, {love|big fan of} what you're doing at {username}. We're [your business] {around the corner|nearby} and {thought|figured} a {collab|cross-promo} could {help us both|be fun}. {Open to it|Interested}?"
+   },
+   {
+    "name": "Review ask",
+    "when": "After a visit",
+    "text": "{Hey|Hi} {firstname}! {Thanks so much for|Loved seeing} {the visit|you in}! {Would you mind|Any chance you could} {leaving us a quick review|sharing a quick review}? {It means the world to a small business|It really helps us out} 🙏"
+   },
+   {
+    "name": "Follow-up #1",
+    "when": "+4 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {just a reminder|quick heads up}, the {offer|free visit} is {still yours|good all month}. {See you soon|Hope to see you}! 🙌"
+   },
+   {
+    "name": "Last follow-up",
+    "when": "+10 days, no reply",
+    "text": "{Hey|Hi} {firstname}, {last one from me|I'll leave it here}! {Whenever you're nearby|Next time you're around}, {pop in and say hi|come say hello}. {We'd love to meet you|Hope to see you soon}!"
+   }
+  ],
+  "crumb": "Local businesses"
+ }
+}

@@ -6,23 +6,63 @@
     {
       "source": "/assets/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Permissions-Policy", "value": "geolocation=(), microphone=(), camera=(), interest-cohort=()" },
-        { "key": "Strict-Transport-Security", "value": "max-age=63072000; includeSubDomains; preload" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "geolocation=(), microphone=(), camera=(), interest-cohort=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        }
       ]
     }
   ],
   "redirects": [
-    { "source": "/privacy-policy", "destination": "/privacy", "permanent": true },
-    { "source": "/tos", "destination": "/terms", "permanent": true },
-    { "source": "/install", "destination": "https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon", "permanent": false }
+    {
+      "source": "/privacy-policy",
+      "destination": "/privacy",
+      "permanent": true
+    },
+    {
+      "source": "/tos",
+      "destination": "/terms",
+      "permanent": true
+    },
+    {
+      "source": "/install",
+      "destination": "https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon",
+      "permanent": false
+    },
+    {
+      "source": "/templates",
+      "destination": "/instagram-dm-templates",
+      "permanent": true
+    },
+    {
+      "source": "/youtube",
+      "destination": "https://www.youtube.com/@Igoutreach_pro",
+      "permanent": false
+    }
   ]
 }
