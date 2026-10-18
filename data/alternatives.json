@@ -1,0 +1,1137 @@
+[
+ {
+  "slug": "instaoutreach-alternative",
+  "competitor": "InstaOutreach",
+  "metaTitle": "InstaOutreach Alternative: IG Outreach Pro Compared",
+  "metaDescription": "InstaOutreach vs IG Outreach Pro: both are Chrome extensions on your own Instagram account. Compare pricing per account, inbox, AI and safety controls.",
+  "h1": "InstaOutreach alternative: IG Outreach Pro compared",
+  "lede": "Pick InstaOutreach if you want a unified inbox, an AI setter and a yearly or lifetime payment option. Pick IG Outreach Pro if you run several Instagram accounts and want one flat monthly price with detailed safety controls. Both run as Chrome extensions on your own Instagram session.",
+  "verdict": {
+   "pickThem": [
+    "You want a unified inbox and an AI setter inside the same tool",
+    "You prefer paying yearly ($199/yr) or once ($499 lifetime) instead of monthly",
+    "You want to pay with crypto, which InstaOutreach accepts at a lower price than card"
+   ],
+   "pickUs": [
+    "You run more than one Instagram account and want them all on one $29.99/mo plan",
+    "You want Test Mode, pacing presets, an hourly cap and a break schedule you set yourself",
+    "You want automatic opt-out detection in 12 languages and duplicate memory of 10k+ usernames"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "How it runs",
+    "them": "Chrome extension on your own Instagram session, no proxy needed",
+    "us": "Chrome extension on your own Instagram account, in your own browser. No cloud, no proxies, no password shared.",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing",
+    "them": "$29/mo for the first account, $14.50/mo per extra account (up to 20); $199/yr; $499 lifetime",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "tie"
+   },
+   {
+    "feature": "Multiple accounts",
+    "them": "Each extra account adds $14.50/mo",
+    "us": "Included on Pro",
+    "edge": "us"
+   },
+   {
+    "feature": "Yearly or lifetime billing",
+    "them": "Yearly ($199) and lifetime ($499) options",
+    "us": "Monthly plans",
+    "edge": "them"
+   },
+   {
+    "feature": "Unified inbox",
+    "them": "Yes",
+    "us": "Reply scanning, no unified inbox",
+    "edge": "them"
+   },
+   {
+    "feature": "AI messages",
+    "them": "AI cold DMs and an AI setter",
+    "us": "AI drafts messages from your tone and goal (AI plan)",
+    "edge": "tie"
+   },
+   {
+    "feature": "Warm-up",
+    "them": "Per-account warm-up",
+    "us": "Safe Start warm-up",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pacing and safety controls",
+    "them": "Warm-up listed; other controls not detailed on the pricing page",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "us"
+   },
+   {
+    "feature": "Personalization",
+    "them": "AI-written cold DMs",
+    "us": "Spintax plus {firstname}, {fullname} and {username} placeholders",
+    "edge": "tie"
+   },
+   {
+    "feature": "Reporting",
+    "them": "Not detailed on the pricing page",
+    "us": "7-day send sparkline, per-outcome send log, CSV export",
+    "edge": "us"
+   }
+  ],
+  "theyDoWell": [
+   "A 14-day trial with one outreach account",
+   "Flexible billing: monthly, yearly or a one-time lifetime price",
+   "A unified inbox and AI setter for handling replies",
+   "Crypto payments at 5% less than card pricing"
+  ],
+  "difference": [
+   "InstaOutreach and IG Outreach Pro are built the same way: a Chrome extension that sends from your own logged-in Instagram session. Neither needs a proxy or your password. The difference is mostly in pricing shape and in what happens after someone replies.",
+   "InstaOutreach charges per account, so each extra account adds $14.50/mo. IG Outreach Pro's Pro plan is $29.99/mo with multiple accounts included. If you only ever run one account, the monthly prices are close, and InstaOutreach's yearly and lifetime options can work out cheaper.",
+   "InstaOutreach puts more into the reply side with a unified inbox and an AI setter. IG Outreach Pro puts more into sending controls: Test Mode, pacing presets, an hourly cap, break schedules and opt-out detection in 12 languages."
+  ],
+  "switching": [
+   "Export your lead list from InstaOutreach or wherever you keep it, and save it as an Excel file",
+   "Install IG Outreach Pro from the Chrome Web Store and open Instagram in the same browser",
+   "Import the list, or target followers, following or a hashtag directly",
+   "Rebuild your message with spintax and {firstname} placeholders, then preview it in Test Mode",
+   "Start with Safe Start and a conservative pacing preset before raising volume"
+  ],
+  "faq": [
+   {
+    "q": "Is IG Outreach Pro cheaper than InstaOutreach?",
+    "a": "For one account, monthly prices are close: InstaOutreach is $29/mo and IG Outreach Pro's Pro plan is $29.99/mo. With two or more accounts IG Outreach Pro costs less, since extra accounts are included. InstaOutreach's $199 yearly and $499 lifetime options can be cheaper for a single account over time."
+   },
+   {
+    "q": "Do both tools run in my own browser?",
+    "a": "Yes. Both are Chrome extensions that use your own Instagram session, so neither needs a proxy or your password."
+   },
+   {
+    "q": "Does IG Outreach Pro have a unified inbox like InstaOutreach?",
+    "a": "No. IG Outreach Pro scans for replies so follow-ups stop at the right time, but you answer conversations in Instagram itself."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "InstaOutreach pricing",
+    "url": "https://instaoutreach.com/pricing"
+   },
+   {
+    "label": "InstaOutreach homepage",
+    "url": "https://instaoutreach.com/"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "colddms-alternative",
+  "competitor": "ColdDMs",
+  "metaTitle": "ColdDMs Alternative: IG Outreach Pro Compared",
+  "metaDescription": "ColdDMs vs IG Outreach Pro: two Chrome extensions for Instagram cold DMs. Compare lead sources, sequences, A/B testing, pricing and safety controls.",
+  "h1": "ColdDMs alternative: IG Outreach Pro compared",
+  "lede": "Pick ColdDMs if you want the widest lead sources, A/B tested sequences, a unified inbox and a first-month client guarantee. Pick IG Outreach Pro if you want unlimited DMs and multiple accounts for $29.99/mo with built-in safety controls. Both run as Chrome extensions on your own device.",
+  "verdict": {
+   "pickThem": [
+    "You want to source leads from likes, comments, keywords and mentions, not only followers and hashtags",
+    "You want up to 15 A/B variants per step and sequences of up to 10 steps",
+    "You value a refund guarantee if the first month on Pro brings no client (terms apply)"
+   ],
+   "pickUs": [
+    "You want unlimited DMs for $29.99/mo instead of a 100 messages per day cap at $99/mo",
+    "You run more than one Instagram account without paying per account",
+    "You want opt-out detection in 12 languages and a Test Mode before anything sends"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "How it runs",
+    "them": "Chrome extension that runs on your device",
+    "us": "Chrome extension on your own Instagram account, in your own browser. No cloud, no proxies, no password shared.",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Pro $99/mo; Scale from $174/mo; Enterprise $999/mo",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "us"
+   },
+   {
+    "feature": "Daily volume",
+    "them": "Pro: up to 100 messages per day, 1 account",
+    "us": "Unlimited DMs on Pro, paced by your own caps and presets",
+    "edge": "us"
+   },
+   {
+    "feature": "Lead sources",
+    "them": "Accounts, posts, hashtags, keywords, mentions, followers, following, likes, comments, or your own list",
+    "us": "Followers or following of any account, people posting a hashtag, or a manual or imported list (PDF or Excel)",
+    "edge": "them"
+   },
+   {
+    "feature": "Sequences and A/B tests",
+    "them": "Up to 10 steps, up to 15 A/B variants per step; follow-ups stop on reply",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "them"
+   },
+   {
+    "feature": "Personalization",
+    "them": "First name, name and username tokens",
+    "us": "Spintax plus {firstname}, {fullname} and {username} placeholders",
+    "edge": "tie"
+   },
+   {
+    "feature": "Unified inbox",
+    "them": "Unibox with filters and preset replies",
+    "us": "Reply scanning, no unified inbox",
+    "edge": "them"
+   },
+   {
+    "feature": "Guarantee",
+    "them": "Full refund on first month of Pro if 1,000+ messages bring no client",
+    "us": "No refund guarantee",
+    "edge": "them"
+   },
+   {
+    "feature": "Safety controls",
+    "them": "Human-like emulation; vendor notes there is always some risk",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "us"
+   },
+   {
+    "feature": "AI drafting",
+    "them": "Not listed on the homepage",
+    "us": "AI drafts messages from your tone and goal (AI plan)",
+    "edge": "us"
+   }
+  ],
+  "theyDoWell": [
+   "A wide set of lead sources, including likers, commenters, keywords and mentions",
+   "Deep sequences with up to 15 A/B variants per step",
+   "A unified inbox with filters and preset replies",
+   "A clear, conditional client guarantee on the first month of Pro, and a 3-day trial"
+  ],
+  "difference": [
+   "ColdDMs and IG Outreach Pro are both Chrome extensions that send from your own computer, so your laptop needs to stay on in both cases. ColdDMs is honest that some risk always remains with automation, and so are we.",
+   "ColdDMs is priced for agencies and heavy senders: Pro is $99/mo for one account and up to 100 messages a day, rising to $999/mo for Enterprise. IG Outreach Pro's Pro plan is $29.99/mo with unlimited DMs and multiple accounts, which suits solo founders, coaches and small teams.",
+   "ColdDMs offers more lead sources, A/B testing and an inbox. IG Outreach Pro focuses on targeting followers, following, hashtags and imported lists, with stronger built-in safety and opt-out handling."
+  ],
+  "switching": [
+   "Export your prospect list from ColdDMs and save it as an Excel file",
+   "Install IG Outreach Pro and import the list, or rebuild targets from followers, following or hashtags",
+   "Recreate your best-performing variant using spintax and placeholders",
+   "Set up follow-up steps and run a small batch in Test Mode",
+   "Turn on Safe Start and pick a pacing preset before scaling"
+  ],
+  "faq": [
+   {
+    "q": "Is IG Outreach Pro cheaper than ColdDMs?",
+    "a": "Yes on list price. ColdDMs Pro is $99/mo for one account and up to 100 messages a day. IG Outreach Pro's Pro plan is $29.99/mo with unlimited campaigns and DMs and multiple accounts."
+   },
+   {
+    "q": "Does IG Outreach Pro do A/B testing like ColdDMs?",
+    "a": "IG Outreach Pro uses spintax to vary wording for each person. It does not offer ColdDMs' structured A/B variants per step with separate results."
+   },
+   {
+    "q": "Does IG Outreach Pro offer a client guarantee?",
+    "a": "No. ColdDMs offers a conditional refund on the first month of Pro. IG Outreach Pro does not offer a refund guarantee."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "ColdDMs homepage, pricing and FAQ",
+    "url": "https://colddms.com/"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "wave-alternative",
+  "competitor": "Wave",
+  "metaTitle": "Wave Alternative: IG Outreach Pro Compared",
+  "metaDescription": "Wave vs IG Outreach Pro: a cloud Instagram outreach platform vs a Chrome extension on your own account. Compare price, lead filters, proxies and control.",
+  "h1": "Wave alternative: IG Outreach Pro compared",
+  "lede": "Pick Wave if you want campaigns that keep running in the cloud with your laptop closed, plus detailed lead filters and an API. Pick IG Outreach Pro if you would rather keep your account in your own browser with no cloud login or proxies, and pay $29.99/mo for multiple accounts instead of $79 to $99 per account.",
+  "verdict": {
+   "pickThem": [
+    "You need campaigns to run while your computer is off",
+    "You want lookalike audiences and filters by follower range, bio keywords and account type",
+    "You want an API or MCP server to drive outreach from your own automations"
+   ],
+   "pickUs": [
+    "You want your Instagram account to stay in your own browser, with no cloud login or proxies",
+    "You run several accounts and want them on one $29.99/mo plan",
+    "You want Test Mode and opt-out detection in 12 languages built in"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "How it runs",
+    "them": "Cloud platform; nothing to keep open",
+    "us": "Chrome extension on your own Instagram account, in your own browser. No cloud, no proxies, no password shared.",
+    "edge": "tie"
+   },
+   {
+    "feature": "Runs with laptop closed",
+    "them": "Yes",
+    "us": "No, your browser needs to be open",
+    "edge": "them"
+   },
+   {
+    "feature": "Pricing",
+    "them": "$99/mo per account monthly, or $79/mo per account billed yearly",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "us"
+   },
+   {
+    "feature": "Multiple accounts",
+    "them": "Priced per account; volume discounts for 5+",
+    "us": "Included on Pro",
+    "edge": "us"
+   },
+   {
+    "feature": "Lead sources and filters",
+    "them": "Lookalikes, competitor followers, likers, commenters, hashtags, keywords, mentions, CSV; filters by followers, bio keywords, verified status and more",
+    "us": "Followers or following of any account, people posting a hashtag, or a manual or imported list (PDF or Excel)",
+    "edge": "them"
+   },
+   {
+    "feature": "Personalization",
+    "them": "AI icebreakers and spintax",
+    "us": "Spintax plus {firstname}, {fullname} and {username} placeholders; AI drafting on the AI plan",
+    "edge": "tie"
+   },
+   {
+    "feature": "Follow-ups",
+    "them": "Automatic follow-ups that stop on reply, plus pre-DM follows and likes",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "tie"
+   },
+   {
+    "feature": "Proxies",
+    "them": "City-level proxies",
+    "us": "None included or needed; sends from your own connection",
+    "edge": "tie"
+   },
+   {
+    "feature": "API",
+    "them": "API and MCP server",
+    "us": "None",
+    "edge": "them"
+   },
+   {
+    "feature": "Safety controls",
+    "them": "Warm-up, progressive pacing, random delays, daily limits",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "tie"
+   }
+  ],
+  "theyDoWell": [
+   "Cloud sending, so campaigns keep going with your computer off",
+   "Rich lead sourcing, including lookalikes and detailed filters",
+   "An API and MCP server for teams that automate their workflow",
+   "A plain statement that no tool can promise zero risk on Instagram, and a 7-day trial"
+  ],
+  "difference": [
+   "The core difference is where your account lives. Wave runs your Instagram outreach from its cloud, using proxies, so it works while your laptop is closed. IG Outreach Pro runs inside your own Chrome on your own connection, so your login never leaves your machine, but your browser needs to stay open while it sends.",
+   "Wave is priced per Instagram account at $79 to $99 a month. IG Outreach Pro's Pro plan is $29.99/mo with multiple accounts included. Wave offers more targeting depth and an API; IG Outreach Pro covers the main sources (followers, following, hashtags, imported lists) and adds opt-out detection in 12 languages."
+  ],
+  "switching": [
+   "Export your audience from Wave as a CSV and save it as an Excel file",
+   "Install IG Outreach Pro and log in to Instagram in the same Chrome browser",
+   "Import the list, or target followers, following or a hashtag directly",
+   "Rebuild your opener with spintax and placeholders, then check previews in Test Mode",
+   "Start with Safe Start and a pacing preset, and keep the browser open during sending windows"
+  ],
+  "faq": [
+   {
+    "q": "What is the main difference between Wave and IG Outreach Pro?",
+    "a": "Wave is a cloud platform that sends for you with proxies, even with your laptop closed. IG Outreach Pro is a Chrome extension that sends from your own browser on your own connection, with no cloud login."
+   },
+   {
+    "q": "Which costs less for multiple accounts?",
+    "a": "IG Outreach Pro. Wave is $79 to $99 per account per month. IG Outreach Pro's Pro plan is $29.99/mo with multiple Instagram accounts included."
+   },
+   {
+    "q": "Does IG Outreach Pro have an API like Wave?",
+    "a": "No. IG Outreach Pro has CSV export of your send log but no API or MCP server."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wave homepage and pricing",
+    "url": "https://usewave.co/"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "inflact-alternative",
+  "competitor": "Inflact",
+  "metaTitle": "Inflact Alternative for Instagram DMs: IG Outreach Pro",
+  "metaDescription": "Inflact vs IG Outreach Pro: Inflact is an Instagram research and analytics suite, IG Outreach Pro sends outbound DMs. See which fits your goal.",
+  "h1": "Inflact alternative for Instagram DM outreach",
+  "lede": "Pick Inflact if you want Instagram research tools such as a profile analyzer, influencer search, follower tracker and hashtag generator. Pick IG Outreach Pro if your goal is sending personalized outbound DMs with follow-ups. Inflact's current pricing page does not list a DM feature, so the two mostly do different jobs.",
+  "verdict": {
+   "pickThem": [
+    "You want profile analytics, follower tracking and influencer search",
+    "You want hashtag generation and hashtag trend tools",
+    "You want a downloader, viewer and fonts generator in one suite"
+   ],
+   "pickUs": [
+    "You want to send outbound DMs to followers of any account, hashtag posters or an imported list",
+    "You want follow-up sequences that stop when someone replies",
+    "You want sending controls like Test Mode, pacing presets and opt-out detection"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "What it is",
+    "them": "Suite of Instagram research tools",
+    "us": "Outbound Instagram DM tool (Chrome extension)",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Research and Pro plans; the pricing table and FAQ list different monthly figures, so check the live page",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "tie"
+   },
+   {
+    "feature": "Outbound DMs",
+    "them": "Not listed in current plans",
+    "us": "Yes, to followers, following, hashtag posters or imported lists",
+    "edge": "us"
+   },
+   {
+    "feature": "Follow-ups",
+    "them": "Not listed",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "us"
+   },
+   {
+    "feature": "Personalization",
+    "them": "Not applicable",
+    "us": "Spintax plus {firstname}, {fullname} and {username} placeholders",
+    "edge": "us"
+   },
+   {
+    "feature": "Profile analytics",
+    "them": "Profile Analyzer and Follower Tracker",
+    "us": "Not offered",
+    "edge": "them"
+   },
+   {
+    "feature": "Influencer and account search",
+    "them": "Influencers Search",
+    "us": "Targeting by account followers, following or hashtag",
+    "edge": "them"
+   },
+   {
+    "feature": "Hashtag tools",
+    "them": "Hashtag Generator and Hashtag Trends",
+    "us": "Targets people posting a hashtag",
+    "edge": "them"
+   },
+   {
+    "feature": "Safety controls for sending",
+    "them": "Not applicable",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "us"
+   },
+   {
+    "feature": "Reporting",
+    "them": "Profile and follower analytics",
+    "us": "7-day send sparkline, per-outcome send log, CSV export",
+    "edge": "tie"
+   }
+  ],
+  "theyDoWell": [
+   "A broad set of Instagram research tools in one account",
+   "Influencer search and profile analysis for finding the right accounts",
+   "Hashtag generation and trend tracking",
+   "A low-cost 7-day trial ($3) on Research and Pro"
+  ],
+  "difference": [
+   "Inflact is best thought of as an Instagram research suite. Its current pricing page lists a profile viewer, downloader, profile analyzer, influencer search, follower tracker and hashtag tools, and does not list a DM feature. Its older direct message page now argues against using bots.",
+   "IG Outreach Pro does one job: sending personalized outbound DMs from your own browser, with follow-ups, reply scanning and safety controls. Some people use a research tool like Inflact to find the right accounts, then use IG Outreach Pro to message those accounts' followers."
+  ],
+  "switching": [
+   "Use Inflact or your own research to pick the accounts and hashtags your buyers follow",
+   "Install IG Outreach Pro and open Instagram in the same Chrome browser",
+   "Target the followers of those accounts, or people posting those hashtags",
+   "Write your message with spintax and placeholders and preview it in Test Mode",
+   "Turn on Safe Start and a pacing preset before sending at volume"
+  ],
+  "faq": [
+   {
+    "q": "Does Inflact send Instagram DMs?",
+    "a": "Inflact's current pricing page, checked on 18 Oct 2026, lists research tools and no DM feature. Check Inflact's site for any change."
+   },
+   {
+    "q": "Can I use Inflact and IG Outreach Pro together?",
+    "a": "Yes. Inflact can help you research accounts and hashtags; IG Outreach Pro can then message followers of those accounts or people posting those hashtags."
+   },
+   {
+    "q": "How much does IG Outreach Pro cost?",
+    "a": "Pro is $29.99/mo and includes unlimited campaigns and DMs plus multiple Instagram accounts. The AI plan, which adds AI message drafting from your tone and goal, is $49/mo."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "Inflact pricing",
+    "url": "https://inflact.com/pricing/"
+   },
+   {
+    "label": "Inflact direct messages page",
+    "url": "https://inflact.com/direct-messages/"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "igdm-pro-alternative",
+  "competitor": "IGdm Pro",
+  "metaTitle": "IGdm Pro Alternative: IG Outreach Pro Compared",
+  "metaDescription": "IGdm Pro vs IG Outreach Pro: a desktop DM app with auto-replies vs a Chrome extension for outbound outreach. Compare price, targeting and safety controls.",
+  "h1": "IGdm Pro alternative: IG Outreach Pro compared",
+  "lede": "Pick IGdm Pro if you want a low-cost desktop app that also handles inbound auto-replies, comment-to-DM and welcome messages. Pick IG Outreach Pro if you want a Chrome extension focused on outbound campaigns, with hashtag targeting, AI drafting and safety controls like opt-out detection in 12 languages.",
+  "verdict": {
+   "pickThem": [
+    "You want the lowest entry price, from $8.99/mo",
+    "You want keyword auto-replies, follow-to-DM and comment-to-DM in the same tool",
+    "You want a desktop app on Windows, macOS or Linux, plus inbox tools like labels and reminders"
+   ],
+   "pickUs": [
+    "You want to target people posting a hashtag, not only exported followers, likers and commenters",
+    "You want opt-out detection in 12 languages and a Test Mode before sending",
+    "You prefer a Chrome extension over installing a separate desktop app"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "How it runs",
+    "them": "Desktop app (Windows, macOS, Linux) running automations in a visible browser window",
+    "us": "Chrome extension on your own Instagram account, in your own browser. No cloud, no proxies, no password shared.",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Standard $8.99/mo (up to 3 accounts); Scale $19.99/mo; Ultra $29.99/mo; lower on annual billing",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "them"
+   },
+   {
+    "feature": "Multiple accounts",
+    "them": "Up to 3 on Standard; unlimited on Scale and Ultra",
+    "us": "Multiple accounts on Pro",
+    "edge": "tie"
+   },
+   {
+    "feature": "Outbound targeting",
+    "them": "CSV uploads; exports of post likers, commenters and account followers",
+    "us": "Followers or following of any account, people posting a hashtag, or a manual or imported list (PDF or Excel)",
+    "edge": "tie"
+   },
+   {
+    "feature": "Bulk messaging",
+    "them": "Up to 1,000 recipients with merge tags and A/B variants",
+    "us": "Unlimited DMs on Pro with spintax and placeholders",
+    "edge": "us"
+   },
+   {
+    "feature": "Inbound automation",
+    "them": "Keyword auto-replies, follow-to-DM, comment-to-DM",
+    "us": "Not offered. IG Outreach Pro is for outbound DMs only",
+    "edge": "them"
+   },
+   {
+    "feature": "Follow-ups",
+    "them": "Scheduled messages and reminders",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "us"
+   },
+   {
+    "feature": "AI drafting",
+    "them": "AI intent matching for comment-to-DM",
+    "us": "AI drafts messages from your tone and goal (AI plan)",
+    "edge": "tie"
+   },
+   {
+    "feature": "Safety controls",
+    "them": "Account warm-up (paced scrolling, story views, likes)",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "us"
+   },
+   {
+    "feature": "Analytics",
+    "them": "Reply rates per campaign and per variant",
+    "us": "7-day send sparkline, per-outcome send log, CSV export",
+    "edge": "tie"
+   }
+  ],
+  "theyDoWell": [
+   "Low prices, from $8.99/mo, with a 10-day trial and no card needed",
+   "Inbound tools such as keyword auto-replies, follow-to-DM and comment-to-DM",
+   "Inbox helpers: quick replies, labels, filters, reminders and scheduled messages",
+   "Reply-rate analytics per campaign and per message variant"
+  ],
+  "difference": [
+   "IGdm Pro is a desktop app that covers both outbound bulk messages and inbound automation like auto-replies and comment-to-DM. It is one of the lowest-priced tools in this space.",
+   "IG Outreach Pro is narrower and focused on outbound campaigns. It runs as a Chrome extension, targets followers, following, hashtag posters or imported lists, drafts messages with AI on the AI plan, and adds safety controls such as Test Mode, pacing presets, an hourly cap and opt-out detection in 12 languages. If you need inbound auto-replies, IGdm Pro covers that and IG Outreach Pro does not."
+  ],
+  "switching": [
+   "Export your lead lists from IGdm Pro as CSV and save them as Excel files",
+   "Install IG Outreach Pro from the Chrome Web Store and log in to Instagram in Chrome",
+   "Import your lists or target followers, following or a hashtag",
+   "Rebuild your messages with spintax and placeholders, and set up follow-ups",
+   "Run a small batch in Test Mode, then turn on Safe Start"
+  ],
+  "faq": [
+   {
+    "q": "Is IGdm Pro cheaper than IG Outreach Pro?",
+    "a": "Yes at entry level. IGdm Pro starts at $8.99/mo for up to 3 accounts. IG Outreach Pro's Pro plan is $29.99/mo with unlimited campaigns and DMs."
+   },
+   {
+    "q": "Does IG Outreach Pro do auto-replies or comment-to-DM?",
+    "a": "No. IG Outreach Pro is for outbound DMs. If you need inbound auto-replies, IGdm Pro or an official-API tool covers that."
+   },
+   {
+    "q": "Do I need to install an app for IG Outreach Pro?",
+    "a": "No separate app. IG Outreach Pro is a Chrome extension that runs in your own browser on your own Instagram account."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "IGdm Pro homepage and pricing",
+    "url": "https://igdm.me/"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "manychat-alternative",
+  "competitor": "ManyChat",
+  "metaTitle": "ManyChat vs IG Outreach Pro: Inbound vs Outbound DMs",
+  "metaDescription": "ManyChat automates replies to people who message or comment first. IG Outreach Pro sends outbound DMs. See which job you need, and why many use both.",
+  "h1": "ManyChat vs IG Outreach Pro: different jobs, often used together",
+  "lede": "Pick ManyChat if you want to automatically reply to people who comment, message or reply to your stories, through Meta's official partner program. Pick IG Outreach Pro if you want to start conversations with people who have not messaged you yet. They solve different problems, and many users run both.",
+  "verdict": {
+   "pickThem": [
+    "You want comment-to-DM, keyword replies and automated conversations for inbound leads",
+    "You want an official Meta Business Partner tool",
+    "You want one tool across Instagram, WhatsApp, Messenger, TikTok, Telegram, SMS and email"
+   ],
+   "pickUs": [
+    "You want to reach new prospects first, from followers of any account or a hashtag",
+    "You want outbound follow-up sequences that stop when someone replies",
+    "You want flat pricing that does not scale with contact count"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "Main job",
+    "them": "Inbound automation: replies to comments, DMs and story replies",
+    "us": "Outbound DMs to people who have not messaged you",
+    "edge": "tie"
+   },
+   {
+    "feature": "How it connects",
+    "them": "Official Meta Business Partner",
+    "us": "No. Runs in your browser on your own account",
+    "edge": "them"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Essential from $14/mo, Pro from $29/mo, Business from $69/mo, Advanced from $139/mo (billed annually), plus per-contact overages",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "tie"
+   },
+   {
+    "feature": "Inbound auto-replies and comment-to-DM",
+    "them": "Yes",
+    "us": "Not offered. IG Outreach Pro is for outbound DMs only",
+    "edge": "them"
+   },
+   {
+    "feature": "Cold outreach to new prospects",
+    "them": "Not its focus; works with people who engage first",
+    "us": "Followers or following of any account, hashtag posters, or imported lists",
+    "edge": "us"
+   },
+   {
+    "feature": "Channels",
+    "them": "Instagram, Facebook Messenger, TikTok, Telegram, WhatsApp, SMS, email",
+    "us": "Instagram only",
+    "edge": "them"
+   },
+   {
+    "feature": "AI",
+    "them": "AI-powered conversations on Pro and above",
+    "us": "AI drafts messages from your tone and goal (AI plan)",
+    "edge": "tie"
+   },
+   {
+    "feature": "Follow-ups",
+    "them": "Broadcasts and automations to contacts",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing model",
+    "them": "Based on active contacts per month",
+    "us": "Flat monthly price, unlimited DMs on Pro",
+    "edge": "us"
+   },
+   {
+    "feature": "Refunds",
+    "them": "Refund if you cancel within 30 days of buying a plan",
+    "us": "No refund guarantee",
+    "edge": "them"
+   }
+  ],
+  "theyDoWell": [
+   "Official Meta Business Partner, using approved channels",
+   "Comment-to-DM and keyword automations that turn engagement into conversations",
+   "Many channels in one place, from Instagram to WhatsApp and email",
+   "14-day trials on Essential and Pro, and a 30-day refund window"
+  ],
+  "difference": [
+   "ManyChat solves inbound: when someone comments a keyword, sends a DM or replies to a story, ManyChat answers automatically through Meta's official partner program. It is the right tool for turning existing engagement into conversations.",
+   "IG Outreach Pro solves outbound: it sends the first message to people who have not contacted you yet, such as followers of a relevant account or people posting a hashtag, then follows up until they reply. It runs as a Chrome extension on your own account, not through the official API.",
+   "Because the jobs are different, many users run both: IG Outreach Pro to start conversations, and ManyChat to handle replies and inbound leads at scale."
+  ],
+  "switching": [
+   "Keep ManyChat running for comment-to-DM and inbound replies",
+   "Install IG Outreach Pro in Chrome and log in to Instagram there",
+   "Target followers of accounts your buyers follow, or people posting a relevant hashtag",
+   "Write your opener with spintax and placeholders and preview it in Test Mode",
+   "Start with Safe Start, then let replies flow into your normal Instagram inbox"
+  ],
+  "faq": [
+   {
+    "q": "Is IG Outreach Pro a replacement for ManyChat?",
+    "a": "Not really. ManyChat automates replies to people who engage with you first. IG Outreach Pro sends outbound messages to new prospects. Many users run both."
+   },
+   {
+    "q": "Does IG Outreach Pro use the official Instagram API?",
+    "a": "No. IG Outreach Pro is a Chrome extension that runs on your own account in your own browser. ManyChat is an official Meta Business Partner."
+   },
+   {
+    "q": "Can ManyChat send cold DMs to people who never messaged me?",
+    "a": "ManyChat is built around people who interact with you first, such as by commenting or messaging. Outbound cold outreach is what IG Outreach Pro is for."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "ManyChat pricing and FAQ",
+    "url": "https://manychat.com/pricing"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "inro-alternative",
+  "competitor": "Inro",
+  "metaTitle": "Inro vs IG Outreach Pro: Inbound vs Outbound DMs",
+  "metaDescription": "Inro automates Instagram comments, DMs and story replies on Meta's official API. IG Outreach Pro sends outbound DMs. Compare, and see why many use both.",
+  "h1": "Inro vs IG Outreach Pro: inbound automation vs outbound outreach",
+  "lede": "Pick Inro if you want comment-to-DM, an AI agent that answers messages and a CRM, all on Meta's official API. Pick IG Outreach Pro if you want to message new prospects who have not contacted you yet. They solve different problems, and many users run both.",
+  "verdict": {
+   "pickThem": [
+    "You want comment-to-DM, story reply automation and an AI agent for inbound messages",
+    "You want a tool on Meta's official API",
+    "You want integrations through Make, Zapier, webhooks or a done-for-you managed service"
+   ],
+   "pickUs": [
+    "You want to start conversations with followers of any account, hashtag posters or an imported list",
+    "You want outbound follow-up sequences with reply scanning",
+    "You want flat pricing with unlimited DMs on Pro"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "Main job",
+    "them": "Inbound automation for DMs, comments and story mentions, plus DM campaigns to your contacts",
+    "us": "Outbound DMs to people who have not messaged you",
+    "edge": "tie"
+   },
+   {
+    "feature": "How it connects",
+    "them": "Meta's official API on all plans; Meta Tech Provider badge",
+    "us": "No. Runs in your browser on your own account",
+    "edge": "them"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Pro from €12.99/mo, billed by activated contacts; Managed Account from €299/mo",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "tie"
+   },
+   {
+    "feature": "Comment-to-DM and auto-replies",
+    "them": "Yes, plus an AI agent",
+    "us": "Not offered. IG Outreach Pro is for outbound DMs only",
+    "edge": "them"
+   },
+   {
+    "feature": "Cold outreach to new prospects",
+    "them": "Campaigns go to existing contacts",
+    "us": "Followers or following of any account, hashtag posters, or imported lists",
+    "edge": "us"
+   },
+   {
+    "feature": "Integrations",
+    "them": "Make, Zapier, HTTP webhooks, private API on Pro",
+    "us": "No CRM, Zapier or calendar integrations; CSV export only",
+    "edge": "them"
+   },
+   {
+    "feature": "Done-for-you service",
+    "them": "Managed Account from €299/mo",
+    "us": "Not offered",
+    "edge": "them"
+   },
+   {
+    "feature": "Personalization",
+    "them": "Automations and AI agent replies",
+    "us": "Spintax plus {firstname}, {fullname} and {username} placeholders",
+    "edge": "tie"
+   },
+   {
+    "feature": "Outbound safety controls",
+    "them": "Not applicable to official-API inbound flows",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "us"
+   },
+   {
+    "feature": "Pricing model",
+    "them": "Scales with activated contacts",
+    "us": "Flat monthly price",
+    "edge": "us"
+   }
+  ],
+  "theyDoWell": [
+   "Runs on Meta's official API on every plan",
+   "Comment-to-DM, story mention replies and an AI agent for inbound leads",
+   "Integrations with Make and Zapier, plus webhooks and a private API",
+   "A 14-day Pro trial and a managed, done-for-you option"
+  ],
+  "difference": [
+   "Inro is built for inbound: it turns comments, DMs and story mentions into conversations, answers with an AI agent and keeps contacts in a CRM, all through Meta's official API. Its DM campaigns go to contacts who are already in your Inro account.",
+   "IG Outreach Pro is built for outbound: it sends the first message to people who have not contacted you, such as followers of a relevant account or people posting a hashtag, and follows up until they reply. It runs as a Chrome extension on your own account rather than through the official API.",
+   "Because the jobs are different, many users run both: IG Outreach Pro to start new conversations, and Inro to handle replies and inbound engagement."
+  ],
+  "switching": [
+   "Keep Inro running for comment-to-DM and inbound replies",
+   "Install IG Outreach Pro in Chrome and log in to Instagram there",
+   "Pick target accounts or hashtags your buyers follow, or import a list",
+   "Write your opener with spintax and placeholders and preview it in Test Mode",
+   "Turn on Safe Start and a pacing preset before scaling"
+  ],
+  "faq": [
+   {
+    "q": "Is IG Outreach Pro a replacement for Inro?",
+    "a": "Not really. Inro automates inbound conversations on Meta's official API. IG Outreach Pro sends outbound DMs to new prospects. Many users run both."
+   },
+   {
+    "q": "Does IG Outreach Pro integrate with Zapier or a CRM?",
+    "a": "No. IG Outreach Pro offers CSV export of your send log. Inro offers Make, Zapier and webhook integrations."
+   },
+   {
+    "q": "Does IG Outreach Pro use Meta's official API?",
+    "a": "No. It is a Chrome extension that runs on your own account in your own browser, with no cloud, no proxies and no password shared."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "Inro pricing",
+    "url": "https://www.inro.social/pricing"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "dm-hero-alternative",
+  "competitor": "DM Hero",
+  "metaTitle": "DM Hero Alternative: IG Outreach Pro Compared",
+  "metaDescription": "DM Hero vs IG Outreach Pro: an AI setter with CRM from $199/mo vs a $29.99/mo Chrome extension for outbound DMs. Compare volume, AI and price.",
+  "h1": "DM Hero alternative: IG Outreach Pro compared",
+  "lede": "Pick DM Hero if you want an AI setter that qualifies leads, handles objections and sends your booking link, with a built-in CRM. Pick IG Outreach Pro if you mainly need outbound sending with follow-ups and safety controls, with unlimited DMs for $29.99/mo instead of a monthly DM allowance from $199/mo.",
+  "verdict": {
+   "pickThem": [
+    "You want an AI setter to carry replies through to a booked call or sale",
+    "You want a built-in CRM with lead statuses, tags and notes",
+    "You want replies and comment auto-DMs handled through Meta's official Graph API"
+   ],
+   "pickUs": [
+    "You want unlimited DMs on Pro rather than 1,000 to 3,000 cold DMs a month",
+    "You want to target followers, following or hashtag posters directly, not only uploaded lists",
+    "You want a lower monthly price: $29.99/mo for Pro or $49/mo for the AI plan"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "How it runs",
+    "them": "Web app plus a Chrome extension that sends cold DMs while Chrome is open; official Graph API for inbox and replies",
+    "us": "Chrome extension on your own Instagram account, in your own browser. No cloud, no proxies, no password shared.",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Starter $199/mo, Growth $349/mo, Outbound $299/mo, Pro $499/mo (excl. VAT)",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "us"
+   },
+   {
+    "feature": "Cold DM volume",
+    "them": "1,000 to 3,000 cold DMs per month per rep",
+    "us": "Unlimited DMs on Pro, paced by your own caps and presets",
+    "edge": "us"
+   },
+   {
+    "feature": "AI setter for replies",
+    "them": "Qualifies leads, handles objections, sends booking, offer or payment links",
+    "us": "Reply scanning; you answer replies yourself",
+    "edge": "them"
+   },
+   {
+    "feature": "AI first messages",
+    "them": "AI openers in English and Polish",
+    "us": "AI drafts messages from your tone and goal (AI plan)",
+    "edge": "tie"
+   },
+   {
+    "feature": "CRM",
+    "them": "Built-in CRM with statuses, tags and notes",
+    "us": "Per-outcome send log and CSV export",
+    "edge": "them"
+   },
+   {
+    "feature": "Lead sources",
+    "them": "Upload a prospect list",
+    "us": "Followers or following of any account, people posting a hashtag, or a manual or imported list (PDF or Excel)",
+    "edge": "us"
+   },
+   {
+    "feature": "Sequences",
+    "them": "Multi-step campaigns with reply detection",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "tie"
+   },
+   {
+    "feature": "Sending controls",
+    "them": "Daily limit, quiet hours, randomized pacing, auto-pause on errors",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "tie"
+   },
+   {
+    "feature": "Team features",
+    "them": "Multi-rep plans with per-rep dashboards and assignment",
+    "us": "Not offered",
+    "edge": "them"
+   }
+  ],
+  "theyDoWell": [
+   "An AI setter that takes conversations through to a booked call",
+   "A built-in CRM and per-rep dashboards for sales teams",
+   "Official Graph API for inbox sync, replies and comment auto-DMs",
+   "A 7-day free trial and no setup or onboarding fees"
+  ],
+  "difference": [
+   "DM Hero is a full outbound-plus-setter system for sales teams. Cold DMs go out through its Chrome extension, then an AI setter on Meta's official API handles replies, qualifies leads and sends a booking link. Plans start at $199/mo with monthly DM allowances.",
+   "IG Outreach Pro focuses on the sending side. It finds prospects from followers, following, hashtags or imported lists, personalizes with spintax and placeholders, follows up until someone replies, and gives you safety controls. You handle the conversation yourself in Instagram. Pro is $29.99/mo with unlimited DMs, and the AI plan is $49/mo."
+  ],
+  "switching": [
+   "Export your prospect list from DM Hero and save it as an Excel file",
+   "Install IG Outreach Pro in Chrome and log in to Instagram there",
+   "Import the list, or target followers, following or a hashtag",
+   "Rebuild your sequence with spintax and placeholders, then test it in Test Mode",
+   "Turn on Safe Start, and plan who answers replies now that there is no AI setter"
+  ],
+  "faq": [
+   {
+    "q": "Is IG Outreach Pro cheaper than DM Hero?",
+    "a": "Yes. DM Hero starts at $199/mo for 1,000 cold DMs a month. IG Outreach Pro's Pro plan is $29.99/mo with unlimited campaigns and DMs, and the AI plan is $49/mo."
+   },
+   {
+    "q": "Does IG Outreach Pro have an AI setter like DM Hero?",
+    "a": "No. IG Outreach Pro uses AI to draft outbound messages on the AI plan and scans for replies, but it does not answer conversations for you."
+   },
+   {
+    "q": "Does IG Outreach Pro have a CRM?",
+    "a": "No. It keeps a per-outcome send log you can export as CSV. DM Hero includes a built-in CRM."
+   },
+   {
+    "q": "Can IG Outreach Pro guarantee my account will not be banned?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and nobody can honestly promise zero risk. IG Outreach Pro gives you Test Mode, a Safe Start warm-up, pacing presets, an hourly cap, a break schedule and opt-out detection so you can keep volume and behavior conservative."
+   }
+  ],
+  "sources": [
+   {
+    "label": "DM Hero pricing",
+    "url": "https://dmhero.ai/pricing"
+   },
+   {
+    "label": "DM Hero homepage",
+    "url": "https://dmhero.ai/"
+   },
+   {
+    "label": "DM Hero on the Chrome Web Store",
+    "url": "https://chromewebstore.google.com/detail/lhgnhdbdbdhgljmmheegflllcjklinfg"
+   }
+  ],
+  "checked": "2026-10-18"
+ },
+ {
+  "slug": "autolead-alternative",
+  "competitor": "Autolead",
+  "metaTitle": "Autolead Alternative: IG Outreach Pro Compared",
+  "metaDescription": "Autolead vs IG Outreach Pro: compare daily DM limits, multi-account sending, proxies, follow-ups and safety controls for Instagram outreach.",
+  "h1": "Autolead alternative: IG Outreach Pro compared",
+  "lede": "Pick Autolead if you want a lower entry price and automatic switching across many stored accounts with proxy support. Pick IG Outreach Pro if you want unlimited DMs on Pro, follow-up sequences, AI drafting and safety controls like Test Mode and opt-out detection in 12 languages.",
+  "verdict": {
+   "pickThem": [
+    "You want the lowest entry price, from $27/mo",
+    "You want automatic switching between many stored accounts when one hits its daily limit",
+    "You want to load your own proxies"
+   ],
+   "pickUs": [
+    "You want unlimited DMs for $29.99/mo instead of 75 a day on a $27 plan",
+    "You want follow-up sequences, reply scanning and AI drafting",
+    "You want Test Mode, pacing presets, an hourly cap and opt-out detection"
+   ]
+  },
+  "rows": [
+   {
+    "feature": "How it runs",
+    "them": "Sends from your device, with single or dual browser depending on plan",
+    "us": "Chrome extension on your own Instagram account, in your own browser. No cloud, no proxies, no password shared.",
+    "edge": "tie"
+   },
+   {
+    "feature": "Pricing",
+    "them": "Starter $27/mo; Pro $57/mo; Enterprise $95/mo",
+    "us": "Pro $29.99/mo (unlimited campaigns and DMs); AI plan $49/mo",
+    "edge": "them"
+   },
+   {
+    "feature": "Daily DM limit",
+    "them": "75/day on Starter, 375/day on Pro, unlimited on Enterprise",
+    "us": "Unlimited DMs on Pro, paced by your own caps and presets",
+    "edge": "us"
+   },
+   {
+    "feature": "Multiple accounts",
+    "them": "Stores many accounts and auto-switches when one hits its daily max",
+    "us": "Multiple Instagram accounts on Pro",
+    "edge": "them"
+   },
+   {
+    "feature": "Proxies",
+    "them": "Proxy support to mask your IP",
+    "us": "None included or needed; sends from your own connection",
+    "edge": "tie"
+   },
+   {
+    "feature": "Lead sourcing",
+    "them": "Auto lead scraper",
+    "us": "Followers or following of any account, people posting a hashtag, or a manual or imported list (PDF or Excel)",
+    "edge": "tie"
+   },
+   {
+    "feature": "Personalization",
+    "them": "Message templates",
+    "us": "Spintax plus {firstname}, {fullname} and {username} placeholders",
+    "edge": "us"
+   },
+   {
+    "feature": "Follow-ups",
+    "them": "Not described on the homepage",
+    "us": "Follow-up sequences, with reply scanning",
+    "edge": "us"
+   },
+   {
+    "feature": "AI drafting",
+    "them": "Not described on the homepage",
+    "us": "AI drafts messages from your tone and goal (AI plan)",
+    "edge": "us"
+   },
+   {
+    "feature": "Safety controls",
+    "them": "Per-account DM limits",
+    "us": "Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, opt-out detection in 12 languages",
+    "edge": "us"
+   }
+  ],
+  "theyDoWell": [
+   "Low entry price, from $27/mo, with a 7-day free trial",
+   "Automatic switching across many stored accounts",
+   "Proxy support and an auto lead scraper on every plan"
+  ],
+  "difference": [
+   "Autolead is built around volume across accounts: you store many profiles, set a DM limit for each, and it switches to the next one when an account hits its daily maximum. Plans are capped by DMs per day until the $95/mo Enterprise tier.",
+   "IG Outreach Pro runs on your own account in your own Chrome, with no proxies. Pro is $29.99/mo with unlimited DMs, and adds follow-up sequences, reply scanning, AI drafting on the AI plan, and controls like Test Mode, pacing presets, an hourly cap and opt-out detection in 12 languages. We do not describe any tool, including ours, as ban proof."
+  ],
+  "switching": [
+   "Export your scraped leads from Autolead and save them as an Excel file",
+   "Install IG Outreach Pro in Chrome and log in to Instagram there",
+   "Import the list, or target followers, following or a hashtag",
+   "Write your message with spintax and placeholders, add follow-ups, and test it in Test Mode",
+   "Turn on Safe Start and a pacing preset before raising volume"
+  ],
+  "faq": [
+   {
+    "q": "Is Autolead cheaper than IG Outreach Pro?",
+    "a": "At entry level, yes: Autolead Starter is $27/mo for 75 DMs a day. IG Outreach Pro's Pro plan is $29.99/mo with unlimited campaigns and DMs."
+   },
+   {
+    "q": "Does IG Outreach Pro use proxies?",
+    "a": "No. It sends from your own browser on your own connection, so there is no proxy setup and no password shared."
+   },
+   {
+    "q": "Can anything make Instagram DMs ban proof?",
+    "a": "No. Automated DMs can conflict with Instagram's terms, and no tool can honestly promise zero risk. Keeping volume modest and messages relevant lowers risk; it does not remove it."
+   },
+   {
+    "q": "How much does IG Outreach Pro cost?",
+    "a": "Pro is $29.99/mo and includes unlimited campaigns and DMs plus multiple Instagram accounts. The AI plan, which adds AI message drafting from your tone and goal, is $49/mo."
+   }
+  ],
+  "sources": [
+   {
+    "label": "Autolead homepage and pricing",
+    "url": "https://autolead.app/home"
+   }
+  ],
+  "checked": "2026-10-18"
+ }
+]

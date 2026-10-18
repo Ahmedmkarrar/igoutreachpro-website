@@ -1,0 +1,1209 @@
+[
+  {
+    "slug": "instagram-dm-limit-per-day",
+    "title": "How many DMs can you send on Instagram per day?",
+    "metaTitle": "Instagram DM Limit Per Day: What Is Actually Known",
+    "metaDescription": "Instagram publishes no official daily DM limit. Here are the vendor and community estimates, what changes your limit, and a safe way to ramp up volume.",
+    "eyebrow": "Instagram limits",
+    "lede": "Instagram does not publish an official number for how many DMs you can send per day. What exists are estimates from tool vendors and users, and they all point the same way: new accounts get far less room than old ones, and pace matters as much as total.",
+    "minutes": 5,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Instagram has no published daily DM limit. Its help center only says limits exist to stop messages people may not want.",
+      "Vendor estimates put new accounts at roughly 20 to 50 DMs a day and established accounts at roughly 50 to 150. Treat these as guesses.",
+      "Sending in bursts gets you blocked faster than sending the same number spread across the day.",
+      "Cold DMs to people who do not follow you carry more risk than replies to people who messaged first.",
+      "Start low, watch for warnings, and raise volume only after a clean week."
+    ],
+    "sections": [
+      {
+        "id": "short-answer",
+        "heading": "The short answer: there is no official number",
+        "paragraphs": [
+          "Instagram has a help center article titled **Why there are limits for sending messages on Instagram**. It says limits exist to stop direct messages that people may not want to get. It does not say what the limit is, and Instagram has never published a daily or hourly DM cap.",
+          "Meta's [spam policy](https://transparency.meta.com/policies/community-standards/spam/) explains the logic. It prohibits posting, sharing or engaging at very high frequencies, whether manually or automatically, and it says accounts acting at lower frequencies can still be restricted if they show other spam signals, such as repetitive content.",
+          "So the honest answer is that your limit is set per account by Instagram's systems, it moves over time, and nobody outside Meta knows the exact figure. Any article that gives you one precise number is guessing."
+        ]
+      },
+      {
+        "id": "reported-estimates",
+        "heading": "What vendors and users report",
+        "paragraphs": [
+          "These figures come from companies that sell Instagram tools and from what their users report. They are useful as a rough sense of scale, not as safe thresholds."
+        ],
+        "list": [
+          "**Social Champ** (social media scheduling vendor): new accounts roughly 20 to 50 DMs per day, older accounts 50 to 150.",
+          "**Inrō** (Instagram DM automation vendor): established accounts with a clean history sit somewhere around 50 to 100 before problems start; new accounts reportedly run into blocks after roughly two dozen messages in a day. Inrō states plainly that Instagram does not publish a daily send limit.",
+          "**Community reports** on forums and in tool reviews vary widely, from a handful of messages on a brand new account to a few hundred on old accounts with lots of normal activity."
+        ],
+        "tip": "If a source quotes a single exact number with no caveat, it is a guess presented as a fact. Plan around the low end of the ranges above."
+      },
+      {
+        "id": "what-changes-limit",
+        "heading": "What seems to change your limit",
+        "paragraphs": [
+          "Because there is no published rule, the factors below come from Meta's spam policy plus what tool vendors consistently report. None of them is a guarantee in either direction."
+        ],
+        "list": [
+          "**Account age and history.** Old accounts with normal posting, liking and replying get more room than new or dormant ones.",
+          "**Past warnings.** An account that was recently restricted tends to be restricted again sooner.",
+          "**Cold vs warm.** Messages to people who do not follow you land in Message Requests. Replies to people who messaged you first are a different situation.",
+          "**How people react.** Declines, blocks and spam reports are strong signals. Replies are a good signal.",
+          "**Repetition.** The same text sent to many people looks like spam. Meta's policy names repetitive content directly.",
+          "**Links.** Links in first messages to strangers are widely reported to increase risk.",
+          "**Speed.** Twenty messages in two minutes looks very different from twenty messages across a working day."
+        ]
+      },
+      {
+        "id": "safe-ramp",
+        "heading": "A conservative ramp for a new or quiet account",
+        "paragraphs": [
+          "This is a cautious starting plan, not a threshold Instagram has confirmed. Adjust down at the first warning."
+        ],
+        "steps": [
+          "Use the account normally for a week or two before any outreach: post, reply to comments, like and comment on accounts in your niche.",
+          "Start with about 10 to 20 cold DMs a day, spread across several hours, with gaps of a few minutes between messages.",
+          "Write several versions of your opener so people do not all get identical text.",
+          "Leave links out of first messages. Share them once someone replies.",
+          "After a clean week, raise the daily number by a small step. Keep the hourly pace low even as the daily total grows.",
+          "If you see any warning or action block, stop for at least a few days and restart lower than before."
+        ]
+      },
+      {
+        "id": "when-you-hit-it",
+        "heading": "What happens when you hit the limit",
+        "paragraphs": [
+          "Usually you see a message saying Instagram restricts certain activity to protect the community, or that you are temporarily blocked from sending messages. Sometimes the message simply fails to send. Instagram does not publish how long these blocks last. Vendor guides report anything from a day or two to several weeks, and repeat blocks tend to last longer.",
+          "Do not keep retrying. Every attempt during a block is more of the same signal. Stop messaging from that account, keep using it normally in small amounts, and come back at a lower pace. If Instagram asks you to verify your identity or change your password, do that first."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Keeping pace under control at volume",
+        "paragraphs": [
+          "The hard part of staying under an unknown limit is discipline: spreading messages out, taking breaks and not sending the same line twice. [IG Outreach Pro](/) is a Chrome extension that sends from your own account in your own browser, and it lets you set pacing presets, an hourly cap and a break schedule, start new accounts with a Safe Start warm-up, and preview everything in Test Mode before anything sends. Spintax gives each person different wording.",
+          "None of that raises Instagram's limit or prevents restrictions. Automated messaging can conflict with Instagram's terms, and any account can be limited. The settings just make it easier to send at a human pace instead of in bursts."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is the DM limit different for business or creator accounts?",
+        "a": "Instagram does not publish a limit for any account type. Vendor reports suggest account age and behaviour matter far more than whether the account is personal, creator or business."
+      },
+      {
+        "q": "Do replies to people who messaged me first count toward the limit?",
+        "a": "Instagram does not say. Most reports suggest the strictest treatment applies to cold messages to people who do not follow you, which land in their Message Requests."
+      },
+      {
+        "q": "How long does a DM block last?",
+        "a": "Instagram does not publish durations. Vendor guides report anything from about a day to several weeks, often longer for repeat blocks. Stop sending until it lifts and restart at a lower pace."
+      },
+      {
+        "q": "Can a tool raise my daily limit?",
+        "a": "No. Your limit is set by Instagram. A tool can only help you pace messages and avoid repetition. It cannot promise you will not be restricted."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Instagram Help Center: Why there are limits for sending messages on Instagram",
+        "url": "https://help.instagram.com/436248864916865"
+      },
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "label": "Instagram Terms of Use",
+        "url": "https://help.instagram.com/581066165581870"
+      },
+      {
+        "label": "Social Champ: Instagram limits (vendor estimate)",
+        "url": "https://www.socialchamp.com/blog/instagram-limits/"
+      },
+      {
+        "label": "Inrō: How many DMs can you send on Instagram (vendor estimate)",
+        "url": "https://inro.social/blog/how-many-direct-messages-can-you-send-on-instagram"
+      }
+    ],
+    "related": [
+      "how-to-dm-on-instagram-without-getting-blocked",
+      "how-to-cold-dm-on-instagram",
+      "what-is-spintax"
+    ]
+  },
+  {
+    "slug": "how-to-cold-dm-on-instagram",
+    "title": "How to cold DM on Instagram",
+    "metaTitle": "How to Cold DM on Instagram (With Examples)",
+    "metaDescription": "A practical way to cold DM on Instagram: pick a narrow audience, engage first, send a short message about them, ask one easy question and follow up twice.",
+    "eyebrow": "Outreach basics",
+    "lede": "To cold DM on Instagram, pick a narrow group of people who plausibly need what you offer, interact with their content first, then send a short message about them that ends in one easy question. Follow up once or twice, then stop.",
+    "minutes": 5,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Message a narrow, relevant audience, not everyone who might buy someday.",
+      "Like or comment on something of theirs before you message, so your name is not completely new.",
+      "Keep the first DM short, about them, with no link and no pitch.",
+      "End with one question that is easy to answer in a few words.",
+      "Follow up once or twice over about a week, then stop."
+    ],
+    "sections": [
+      {
+        "id": "how-cold-dms-arrive",
+        "heading": "How a cold DM actually arrives",
+        "paragraphs": [
+          "When you message someone who does not follow you, your message goes to their **Message Requests**, not their main inbox. According to Instagram's help center, they can allow or decline it, and once they allow it, your future messages go straight to their inbox. Requests that look like spam or contain words they filter can be moved to a hidden folder.",
+          "That shapes everything. Your message is competing with other requests, the person can see your profile before deciding, and a decline costs them one tap. The goal of a first message is simply to be worth allowing."
+        ]
+      },
+      {
+        "id": "pick-audience",
+        "heading": "Pick a narrow audience first",
+        "paragraphs": [
+          "Most cold DMs fail before they are written, because they go to people who were never a fit. Decide exactly who you are messaging and why they would care. A fitness coach targeting new mothers returning to training is a list. A coach targeting anyone into fitness is not.",
+          "Good places to find people are followers of accounts adjacent to yours, people posting on niche hashtags, and people commenting on posts in your space. Our guide on [how to find leads on Instagram](/guides/how-to-find-leads-on-instagram) covers each source."
+        ]
+      },
+      {
+        "id": "prepare-profile",
+        "heading": "Get your own profile ready",
+        "paragraphs": [
+          "The first thing most people do with a message request is tap your profile. If it is empty, unclear or obviously a sales account, they decline.",
+          "Make sure your bio says who you help and with what, you have a profile photo of a real person or a clear logo, and your last few posts or highlights show your work. Proof such as results, testimonials or examples does more than any line in the DM."
+        ]
+      },
+      {
+        "id": "write-first-message",
+        "heading": "Write the first message",
+        "paragraphs": [
+          "A reliable structure is three parts: something specific about them, a short reason you are reaching out, and one question. Keep it to a few lines. Here is an example for an agency messaging a cafe owner:",
+          "**Hey Maria, saw the new oat flat white post, that latte art is clean. I help local cafes fill quieter weekday mornings. Are mornings slow for you, or is that not a problem right now?**",
+          "It names something real, says what you do in one line, and asks a question that is easy to answer either way. There is no link, no calendar, no paragraph about your services."
+        ],
+        "steps": [
+          "Look at their last few posts and bio, and note one specific thing.",
+          "Like or leave a genuine comment on a recent post.",
+          "Send the short message, ideally later that day or the next.",
+          "If they reply, answer their question and keep the conversation about them before you suggest a call."
+        ],
+        "tip": "Need starting points? The [DM templates](/instagram-dm-templates) are written for coaches, agencies, real estate agents and local businesses."
+      },
+      {
+        "id": "follow-up",
+        "heading": "Follow up, then stop",
+        "paragraphs": [
+          "Many people see a request, mean to answer and forget. A short follow-up two or three days later is normal. A second one around a week after the first is still reasonable. After that, stop.",
+          "Keep follow-ups light and new: a quick question, a useful link only if it is genuinely relevant, or a simple check-in. See [Instagram follow-up messages](/guides/instagram-follow-up-message) for timing and examples."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Mistakes that get you ignored or reported",
+        "list": [
+          "Pitching in the first message, especially with a price or a calendar link.",
+          "Long blocks of text that read like an ad.",
+          "Fake familiarity, such as pretending you met or that they asked for information.",
+          "Sending the exact same message to everyone, which Meta's spam policy treats as a signal.",
+          "Messaging people who clearly said no, or ignoring a request to stop.",
+          "Sending too many messages too fast from a new account."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Doing this at scale",
+        "paragraphs": [
+          "Writing a personal message for every person stops being practical somewhere past a few dozen a day. [IG Outreach Pro](/) is a Chrome extension that sends from your own Instagram account in your own browser. You can target followers or following of an account, hashtag posters or an imported list, write openers with spintax and {firstname} placeholders, draft with AI, and set follow-up sequences. Test Mode shows every message before it sends, and opt-out detection in 12 languages stops messaging anyone who asks.",
+          "Automated DMs can conflict with Instagram's terms, and no tool can promise your account will not be restricted. Keep volume modest and the messages genuinely relevant."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is cold DMing on Instagram allowed?",
+        "a": "Messaging people you do not know is a normal Instagram feature. Sending high volumes of repetitive or unwanted messages falls under Meta's spam policy, and using automation can conflict with Instagram's terms. Keep it relevant and paced."
+      },
+      {
+        "q": "Should I follow someone before I DM them?",
+        "a": "It is optional. Engaging with a post first is usually more useful than a follow, because it gives you something specific to mention and makes your name familiar."
+      },
+      {
+        "q": "Can I put a link in my first DM?",
+        "a": "It is better not to. Links in first messages to strangers look like spam and are widely reported to increase the chance of restrictions. Share links after they reply."
+      },
+      {
+        "q": "How many cold DMs should I send per day?",
+        "a": "Instagram publishes no limit. Start low on new accounts and spread messages out. Our [DM limit guide](/guides/instagram-dm-limit-per-day) collects the vendor estimates."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Instagram Help Center: Direct Messaging and message requests",
+        "url": "https://help.instagram.com/1750528395229662"
+      },
+      {
+        "label": "Instagram Help Center: Hide comments or message requests you don't want to see",
+        "url": "https://help.instagram.com/700284123459336"
+      },
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "label": "Instagram Terms of Use",
+        "url": "https://help.instagram.com/581066165581870"
+      }
+    ],
+    "related": [
+      "how-to-write-an-instagram-dm-that-gets-replies",
+      "instagram-follow-up-message",
+      "how-to-find-leads-on-instagram"
+    ]
+  },
+  {
+    "slug": "how-to-dm-on-instagram-without-getting-blocked",
+    "title": "How to DM on Instagram without getting blocked",
+    "metaTitle": "How to DM on Instagram Without Getting Blocked",
+    "metaDescription": "No method guarantees you won't get blocked. Here is what Instagram says triggers restrictions, what users report, how to warm up and what to do if it happens.",
+    "eyebrow": "Account safety",
+    "lede": "There is no way to guarantee Instagram will never block your DMs, and anyone who promises that is guessing. What you can do is avoid the behaviour Meta says it targets: very high frequency, repetitive messages and signs of inauthentic activity.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "No method or tool guarantees you will not be blocked.",
+      "Meta's spam policy targets very high frequency activity, repetitive content and inauthentic signals, whether manual or automated.",
+      "Warm up new accounts with normal use before outreach, and start with small daily numbers.",
+      "Vary your wording, skip links in first messages and spread messages across the day.",
+      "If you get blocked, stop completely, wait, and come back slower."
+    ],
+    "sections": [
+      {
+        "id": "what-is-an-action-block",
+        "heading": "What an action block is",
+        "paragraphs": [
+          "An action block is a temporary restriction on one or more things your account can do, such as sending messages, following or commenting. It usually shows as a notice that Instagram restricts certain activity to protect its community, or as messages that simply fail to send.",
+          "Instagram does not publish the rules behind these blocks or how long they last. Its help center says it limits messaging to stop DMs people may not want, and its [Terms of Use](https://help.instagram.com/581066165581870) let it restrict or stop providing the service to protect the community. More serious or repeated problems can lead to longer restrictions or account removal."
+        ]
+      },
+      {
+        "id": "what-triggers-blocks",
+        "heading": "What triggers blocks",
+        "paragraphs": [
+          "Meta's [spam policy](https://transparency.meta.com/policies/community-standards/spam/) is the closest thing to an official list. It prohibits engaging at very high frequencies, manually or automatically, and says lower frequency activity can still be restricted when it shows other signals such as repetitive content or inauthenticity.",
+          "Beyond that, these are the patterns users and tool vendors report most often. They are observations, not published rules:"
+        ],
+        "list": [
+          "Many messages in a short burst, especially from a new or recently inactive account.",
+          "Identical or near identical text sent to many people.",
+          "Links in first messages to people who do not follow you.",
+          "People declining, blocking or reporting your requests.",
+          "A sudden jump in activity compared with how the account normally behaves.",
+          "Logging in from new devices or locations at the same time as heavy activity.",
+          "Third party apps that ask for your Instagram password."
+        ]
+      },
+      {
+        "id": "warm-up",
+        "heading": "Warm up before you send",
+        "paragraphs": [
+          "Warming up means making the account look and act like a real person's account before it starts sending cold messages. There is no official warm-up period. These steps are common practice:"
+        ],
+        "steps": [
+          "Complete the profile: photo, bio, a few posts or highlights.",
+          "Use the account normally for one to two weeks: browse, like, comment, reply to stories, post.",
+          "Start outreach with a small daily number, roughly 10 to 20 messages, spread over several hours.",
+          "Increase gradually only after a week with no warnings.",
+          "Keep some normal activity going alongside outreach, so messaging is not the only thing the account does."
+        ],
+        "tip": "A quiet account that suddenly sends 100 messages looks very different from the same account sending 15 a day after weeks of normal use."
+      },
+      {
+        "id": "message-hygiene",
+        "heading": "Message habits that lower risk",
+        "list": [
+          "**Vary the wording.** Write several openers or use [spintax](/guides/what-is-spintax) so recipients do not all get the same text.",
+          "**Personalise.** Mention something real about the person. Relevant messages get fewer declines and reports.",
+          "**No links in first messages.** Send them after a reply.",
+          "**Keep it short.** Long sales copy reads as spam.",
+          "**Respect no.** If someone asks you to stop, stop and do not message them again.",
+          "**Do not message the same person twice by accident.** Keep a record of who you contacted."
+        ]
+      },
+      {
+        "id": "if-blocked",
+        "heading": "If you get blocked",
+        "steps": [
+          "Stop all messaging from that account immediately. Do not retry failed messages.",
+          "If Instagram asks for verification or a password change, complete it.",
+          "If you believe the block is a mistake, use the option in the notice to tell Instagram.",
+          "Use the account lightly and normally for a few days, without outreach.",
+          "Restart at a lower daily number and slower pace than before the block.",
+          "Look at what changed before the block: volume, wording, links, a new tool. Fix that first."
+        ]
+      },
+      {
+        "id": "automation-honesty",
+        "heading": "An honest note about automation",
+        "paragraphs": [
+          "Instagram's terms prohibit accessing or collecting information in unauthorised or automated ways without its permission, and Meta's spam policy applies to automated activity as well as manual. Using any automation tool for DMs carries a real risk of restrictions, and no vendor can remove it.",
+          "If you do use a tool, [IG Outreach Pro](/) runs in your own browser on your own account, and lets you set pacing presets, an hourly cap and a break schedule, use a Safe Start warm-up for new accounts, preview every message in Test Mode, and stop messaging anyone who opts out, with detection in 12 languages. Those settings help you send at a human pace. They do not make automation risk free."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How long does an Instagram DM block last?",
+        "a": "Instagram does not publish durations. Vendor and user reports range from about a day to several weeks, often longer for repeat blocks."
+      },
+      {
+        "q": "Can I get permanently banned for sending DMs?",
+        "a": "Yes, it is possible. Instagram's terms allow it to stop providing the service to accounts that break its rules, and repeated spam behaviour can lead to that."
+      },
+      {
+        "q": "Does a business account get blocked less?",
+        "a": "There is no published evidence of that. Account history and behaviour appear to matter more than account type."
+      },
+      {
+        "q": "Is there a safe number of DMs per day?",
+        "a": "No number is officially safe. See our [DM limit guide](/guides/instagram-dm-limit-per-day) for the vendor estimates and a conservative ramp."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "label": "Instagram Terms of Use",
+        "url": "https://help.instagram.com/581066165581870"
+      },
+      {
+        "label": "Instagram Help Center: Why there are limits for sending messages on Instagram",
+        "url": "https://help.instagram.com/436248864916865"
+      },
+      {
+        "label": "Instagram Help Center: Hide comments or message requests you don't want to see",
+        "url": "https://help.instagram.com/700284123459336"
+      }
+    ],
+    "related": [
+      "instagram-dm-limit-per-day",
+      "what-is-spintax",
+      "how-to-cold-dm-on-instagram"
+    ]
+  },
+  {
+    "slug": "instagram-follow-up-message",
+    "title": "Instagram follow-up messages: timing and examples",
+    "metaTitle": "Instagram Follow-Up Message: Timing and Examples",
+    "metaDescription": "When to follow up on an unanswered Instagram DM, how many times, and 10 follow-up message examples that stay polite, short and easy to reply to.",
+    "eyebrow": "Follow-ups",
+    "lede": "Send your first follow-up two to three days after an unanswered DM, a second one about a week after the first, and then stop. Each follow-up should be shorter than the last and give the person a new, easy reason to reply.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "First follow-up: two to three days after your first message.",
+      "Second follow-up: about five to seven days after the first follow-up.",
+      "Stop after two follow-ups. A third rarely helps and can annoy.",
+      "Keep follow-ups to one or two lines and do not repeat the first message.",
+      "Stop immediately if someone says no or asks you to stop."
+    ],
+    "sections": [
+      {
+        "id": "why-follow-up",
+        "heading": "Why follow-ups work",
+        "paragraphs": [
+          "Most people who do not answer a first message are not saying no. They saw it at a bad moment, meant to come back and forgot, or never opened their Message Requests. A short follow-up gives them a second chance to answer.",
+          "There is no published Instagram data on follow-up rates, but cold email studies point the same way. A [Backlinko and Pitchbox study](https://backlinko.com/email-outreach-study) of 12 million outreach emails found that one follow-up increased replies by 65.8%. [Hunter's State of Cold Email report](https://hunter.io/the-state-of-cold-email-2025) found campaigns with follow-ups averaged a 4.9% reply rate against 3% without, and that unsubscribes grew after the third follow-up. Email is a different channel, so treat this as direction, not a DM benchmark."
+        ]
+      },
+      {
+        "id": "timing",
+        "heading": "When to send each follow-up",
+        "steps": [
+          "**Day 0:** first message.",
+          "**Day 2 or 3:** first follow-up. Short, light, one new angle or question.",
+          "**Day 7 to 10:** second follow-up. Even shorter. Often a simple close-the-loop line.",
+          "**After that:** stop. If they come back later, pick it up from there."
+        ],
+        "paragraphs": [
+          "Send at roughly the same time of day you would message a real contact, not at 3am in their time zone. If they viewed your story or liked a post in between, that is a natural moment to follow up."
+        ]
+      },
+      {
+        "id": "examples",
+        "heading": "Follow-up message examples",
+        "paragraphs": [
+          "Swap in your own details. Each one is short on purpose."
+        ],
+        "list": [
+          "Hey {firstname}, just bumping this in case it got buried in requests.",
+          "Quick one {firstname}: is weekday traffic something you are working on, or is it fine right now?",
+          "No worries if the timing is off. Would it help if I sent a two minute example instead?",
+          "Saw your post about the new menu, looks good. Still happy to share that idea if useful.",
+          "Should I close this out, or is it worth a quick chat next month?",
+          "Totally fine if this is not for you, just let me know and I will not message again.",
+          "Forgot to mention, I put together a short checklist for this. Want it?",
+          "Hey {firstname}, one last note from me. If it ever becomes a priority, my door is open.",
+          "Just checking: is there someone else on your team who handles this?",
+          "Did that question make sense, or should I explain it differently?"
+        ],
+        "tip": "Write your follow-ups with [spintax](/guides/what-is-spintax) so they do not read identically across everyone in the sequence."
+      },
+      {
+        "id": "what-not-to-do",
+        "heading": "What not to do",
+        "list": [
+          "Do not paste the first message again.",
+          "Do not guilt them: lines like 'I guess you are not interested in growing' end conversations.",
+          "Do not follow up daily.",
+          "Do not add a long pitch or price in a follow-up to someone who has not replied.",
+          "Do not keep going after a clear no, a block or a request to stop."
+        ]
+      },
+      {
+        "id": "when-they-reply",
+        "heading": "When they finally reply",
+        "paragraphs": [
+          "Stop the sequence for that person straight away. Nothing looks worse than an automated 'just bumping this' arriving after someone has already answered.",
+          "Reply to what they actually said, ask one follow-up question about their situation, and only suggest a call once it is clear there is a real need. If they said not now, ask if you can check back in a set number of weeks, and note it."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Running follow-ups at scale",
+        "paragraphs": [
+          "Tracking who is on day 3 and who is on day 10 across hundreds of conversations is where follow-ups usually fall apart. [IG Outreach Pro](/) lets you set follow-up sequences with your own delays, scans for replies so you can see who answered, keeps a duplicate memory so nobody is messaged twice by mistake, and detects opt-outs in 12 languages. It sends from your own account in your own browser.",
+          "Automated follow-ups can still conflict with Instagram's terms, so keep sequences short and paced."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How long should I wait before following up on Instagram?",
+        "a": "Two to three days for the first follow-up is a reasonable default. Waiting less can feel pushy; waiting much longer means they have forgotten your first message."
+      },
+      {
+        "q": "How many times should I follow up?",
+        "a": "Twice is a good rule. Email data from Hunter shows unsubscribes grow after the third follow-up, and on Instagram a decline or block costs you the contact entirely."
+      },
+      {
+        "q": "Is it okay to follow up if they saw my message but did not reply?",
+        "a": "Yes, once or twice. A seen message only means they opened it. Keep the follow-up short and easy to answer, and accept silence after that."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Backlinko and Pitchbox: email outreach study of 12 million emails",
+        "url": "https://backlinko.com/email-outreach-study"
+      },
+      {
+        "label": "Hunter: The State of Cold Email 2025",
+        "url": "https://hunter.io/the-state-of-cold-email-2025"
+      },
+      {
+        "label": "Instagram Help Center: Direct Messaging and message requests",
+        "url": "https://help.instagram.com/1750528395229662"
+      }
+    ],
+    "related": [
+      "how-to-cold-dm-on-instagram",
+      "how-to-write-an-instagram-dm-that-gets-replies",
+      "what-is-spintax"
+    ]
+  },
+  {
+    "slug": "how-to-find-leads-on-instagram",
+    "title": "How to find leads on Instagram",
+    "metaTitle": "How to Find Leads on Instagram: 7 Reliable Sources",
+    "metaDescription": "Where to find leads on Instagram: followers of adjacent accounts, hashtags, commenters, locations and your own engagers, plus how to qualify them before you DM.",
+    "eyebrow": "Prospecting",
+    "lede": "The best Instagram leads are people already showing interest in your topic: followers of accounts adjacent to yours, people posting on niche hashtags, commenters on posts in your space and people engaging with your own content. Find them there, then qualify each one from their profile before you message.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Your own engagers are the warmest leads: commenters, story repliers and new followers.",
+      "Followers of adjacent accounts and niche hashtag posters are the biggest pools.",
+      "Commenters on niche posts are smaller pools with stronger intent.",
+      "Qualify from the profile: bio, recent posts, location, and whether they could plausibly buy.",
+      "Smaller, tighter lists usually get better reply rates than big broad ones."
+    ],
+    "sections": [
+      {
+        "id": "define-lead",
+        "heading": "Decide what a lead is first",
+        "paragraphs": [
+          "Write one sentence describing who you want to talk to, specific enough that you could look at a profile and say yes or no in ten seconds. For example: independent hair salon owners in Texas with an active account, or business coaches with a paid program and under 20,000 followers.",
+          "Without that sentence you will collect thousands of handles and message the wrong people. With it, every source below becomes a filter instead of a firehose."
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Where to find them",
+        "list": [
+          "**Your own engagers.** People who commented, replied to a story, sent a reaction or recently followed you already know your name. Start here.",
+          "**Followers of adjacent accounts.** Pick accounts your ideal client follows but that do not compete with you: a supplier, a software tool, an event, a podcast in the niche.",
+          "**Following lists.** Who a well-known person in the niche follows is often a curated list of peers.",
+          "**Niche hashtags.** People posting on specific hashtags such as #salonowner or #newcoach are telling you what they do. Specific beats popular.",
+          "**Commenters on niche posts.** People asking questions under a post about your topic are actively thinking about it.",
+          "**Location tags.** Useful for local businesses: posts tagged at a specific venue, neighbourhood or city.",
+          "**Your existing lists.** Past customers, event attendees or newsletter subscribers who share their Instagram handle."
+        ]
+      },
+      {
+        "id": "qualify",
+        "heading": "Qualify before you message",
+        "paragraphs": [
+          "A large list is not the goal. In cold email data from [Hunter](https://hunter.io/the-state-of-cold-email-2025), campaigns sent to 50 recipients or fewer averaged a 5.8% reply rate against 2.1% for campaigns sent to over 1,000. Email is a different channel, but the lesson carries over: relevance beats reach.",
+          "Check each profile quickly:"
+        ],
+        "steps": [
+          "Does the bio match your one-sentence lead description?",
+          "Have they posted in the last month or so? Dormant accounts rarely reply.",
+          "Is it a real person or business, not a meme page or obvious bot?",
+          "Is there anything specific you could mention in a first message?",
+          "Could they plausibly afford and need what you sell?"
+        ],
+        "tip": "Note one detail per lead as you qualify. It becomes the first line of your message."
+      },
+      {
+        "id": "organise",
+        "heading": "Keep a simple record",
+        "paragraphs": [
+          "A spreadsheet is enough to start: handle, name, source, the detail you noticed, date messaged, follow-up dates, and outcome. The source column matters, because after a few weeks it tells you which pools actually reply.",
+          "Keep a do-not-contact column too. Anyone who says no or asks you to stop goes there and never comes back into a list."
+        ]
+      },
+      {
+        "id": "rules",
+        "heading": "Stay inside the rules",
+        "paragraphs": [
+          "Instagram's [Terms of Use](https://help.instagram.com/581066165581870) prohibit accessing or collecting information in unauthorised ways, including collecting information in an automated way without its permission. Bulk scraping tools and bought lists of Instagram users carry real risk to your account, and bought lists are rarely relevant anyway.",
+          "Manual research, your own engagers and lists people gave you directly are the safest sources. If you use any automation, keep it light, and remember privacy laws where you and your leads live may also apply to how you store their details."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Turning a list into conversations",
+        "paragraphs": [
+          "Once you know which pools work, [IG Outreach Pro](/) can message followers or following of a chosen account, people posting on a hashtag, or a list you import, from your own account in your own browser. It keeps a duplicate memory so nobody is contacted twice, and exports results to CSV so your spreadsheet stays the source of truth.",
+          "Automated messaging can conflict with Instagram's terms, so keep volume modest. The [DM templates](/instagram-dm-templates) are a good starting point for the first message."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Should I buy a list of Instagram leads?",
+        "a": "Generally no. Bought lists are usually untargeted, may be collected in ways Instagram's terms prohibit, and messaging uninterested people leads to declines and reports."
+      },
+      {
+        "q": "Are big hashtags good for finding leads?",
+        "a": "Usually not. Very popular hashtags are full of unrelated posts. Narrow, specific hashtags tied to a job or situation give you far more relevant people."
+      },
+      {
+        "q": "How many leads do I need to start?",
+        "a": "Fifty well-qualified leads are enough to test a message. Learn from those replies before building a bigger list."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Instagram Terms of Use",
+        "url": "https://help.instagram.com/581066165581870"
+      },
+      {
+        "label": "Hunter: The State of Cold Email 2025",
+        "url": "https://hunter.io/the-state-of-cold-email-2025"
+      },
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      }
+    ],
+    "related": [
+      "how-to-cold-dm-on-instagram",
+      "how-to-get-clients-on-instagram",
+      "instagram-dm-vs-cold-email"
+    ]
+  },
+  {
+    "slug": "what-is-spintax",
+    "title": "What is spintax? Examples for DMs and outreach",
+    "metaTitle": "What Is Spintax? Syntax and Examples for Outreach",
+    "metaDescription": "Spintax is a text format like {Hi|Hey|Hello} that picks one option each time. Learn the syntax, nesting, placeholders and common mistakes, with examples.",
+    "eyebrow": "Writing at scale",
+    "lede": "Spintax (spin syntax) is a way of writing text with alternatives inside curly braces, separated by pipes, so software can pick one option each time it sends. Writing {Hi|Hey|Hello} means each person randomly gets Hi, Hey or Hello.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Spintax looks like {option one|option two|option three}. One option is chosen at random per message.",
+      "You can nest it: {Hi|Hey} {there|{firstname}} works.",
+      "Combine it with placeholders like {firstname} for messages that read naturally and vary.",
+      "Every option must make sense in the sentence. Read several outputs before sending.",
+      "Spintax varies wording. It does not make an irrelevant message relevant."
+    ],
+    "sections": [
+      {
+        "id": "definition",
+        "heading": "What spintax is",
+        "paragraphs": [
+          "Spintax is short for spin syntax, a marked-up version of text that tells software which parts can change. It started in content spinning, where it was used to generate many versions of an article, as [Wikipedia's article spinning entry](https://en.wikipedia.org/wiki/Article_spinning) describes. In outreach, it is used for something more modest: making sure a message sent to many people does not read word for word the same each time.",
+          "That matters on Instagram because Meta's [spam policy](https://transparency.meta.com/policies/community-standards/spam/) names repetitive content as a spam signal, and because people can tell when they are getting a copied script."
+        ]
+      },
+      {
+        "id": "syntax",
+        "heading": "The syntax",
+        "list": [
+          "**Curly braces** mark a spin block: {...}",
+          "**Pipes** separate the options: {Hi|Hey|Hello}",
+          "**One option** is picked at random each time the text is generated.",
+          "**Nesting** puts a spin block inside an option: {Hi|Hey} {there|{again|once more}}",
+          "**Empty options** let a word sometimes disappear: {really |}love this. Watch the spacing."
+        ],
+        "paragraphs": [
+          "To count possible versions, multiply the number of options in each block. {Hi|Hey|Hello} {firstname}, {love|really like} your {feed|page} has 3 x 2 x 2 = 12 versions."
+        ]
+      },
+      {
+        "id": "examples",
+        "heading": "Examples",
+        "paragraphs": [
+          "A simple opener:",
+          "**{Hi|Hey|Hello} {firstname}, {loved|really liked|enjoyed} your post about {topic}.**",
+          "A full first DM for a coach:",
+          "**{Hey|Hi} {firstname}! {Saw|Noticed} you {just started|recently started} your fitness journey, {that is a big step|good for you}. {Quick question|Curious}: {what is the hardest part so far|what has been the toughest bit}?**",
+          "A follow-up:",
+          "**{Just bumping this|Quick nudge} in case it got {buried|lost} in your requests, {firstname}.**"
+        ],
+        "tip": "The [DM templates](/instagram-dm-templates) are all written in spintax, so you can see full examples by niche."
+      },
+      {
+        "id": "placeholders",
+        "heading": "Spintax plus placeholders",
+        "paragraphs": [
+          "Placeholders also use curly braces but have no pipes. {firstname}, {fullname} and {username} are replaced with the person's details instead of a random option. Combined with spintax, you get messages that are both personal and varied.",
+          "Plan a fallback for when a first name is missing or is clearly a brand name. Writing {Hey {firstname}|Hey there} hides the problem sometimes but not always, so check how your tool handles empty values and preview real outputs."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common mistakes",
+        "list": [
+          "**Options that change the meaning.** {I can help|I will double} your sales is two very different promises.",
+          "**Grammar that breaks.** {a|an} {idea|plan} can produce 'a idea'. Spin whole phrases instead of single articles.",
+          "**Missing or extra braces and pipes.** One unclosed brace can print the raw code to your recipient.",
+          "**Spaces in the wrong place.** {Hi |Hey} creates a double space in one version only.",
+          "**Too many options in every block.** Two or three good options beat ten awkward ones.",
+          "**Never previewing.** Always read at least five or six generated versions out loud."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Using spintax in Instagram DMs",
+        "paragraphs": [
+          "[IG Outreach Pro](/) supports spintax and the {firstname}, {fullname} and {username} placeholders in openers and follow-ups, and Test Mode shows you the actual generated messages before anything sends. AI drafting can write a first version for you to edit.",
+          "Spintax reduces repetition, but it does not make outreach safe or welcome on its own. Automated DMs can conflict with Instagram's terms, and the message still has to be relevant to the person getting it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does spintax stop Instagram from flagging my messages?",
+        "a": "No one can promise that. Spintax reduces identical text, which Meta names as a spam signal, but volume, pacing, links and how people react to your messages matter too."
+      },
+      {
+        "q": "How many variations should a message have?",
+        "a": "Enough that people near each other in your list rarely get the same version. A few spin blocks with two or three options each usually gives dozens of combinations."
+      },
+      {
+        "q": "Can I use spintax in email too?",
+        "a": "Yes, most cold email tools support the same {a|b} format. The same rules apply: every option must read well and mean the same thing."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia: Article spinning (spintax)",
+        "url": "https://en.wikipedia.org/wiki/Article_spinning"
+      },
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      }
+    ],
+    "related": [
+      "how-to-write-an-instagram-dm-that-gets-replies",
+      "instagram-follow-up-message",
+      "how-to-dm-on-instagram-without-getting-blocked"
+    ]
+  },
+  {
+    "slug": "instagram-dm-vs-cold-email",
+    "title": "Instagram DM vs cold email: which should you use?",
+    "metaTitle": "Instagram DM vs Cold Email: Which Works Better?",
+    "metaDescription": "Instagram DMs suit visual, local and creator businesses with active accounts. Cold email suits B2B buyers. Compare reach, setup, rules, volume and replies.",
+    "eyebrow": "Channel comparison",
+    "lede": "Use Instagram DMs when your buyers run their business on Instagram, such as coaches, creators, salons, cafes and local services. Use cold email when your buyers are B2B decision makers who live in their inbox, and use both when your audience spans the two.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "DMs fit audiences that are active on Instagram. Email fits B2B buyers who work from their inbox.",
+      "Instagram handles are visible on the profile. Emails often have to be found and verified.",
+      "Cold email needs domains, authentication and deliverability work. DMs need a credible, warmed-up account.",
+      "Email can scale to higher volume. Instagram DM volume is limited by unpublished account limits.",
+      "Email has published reply benchmarks (vendor data, roughly 1% to 6%). Instagram DMs have no reliable public benchmark."
+    ],
+    "sections": [
+      {
+        "id": "quick-comparison",
+        "heading": "The quick comparison",
+        "list": [
+          "**Where it lands.** A DM from a stranger goes to Message Requests. A cold email goes to the inbox, promotions or spam depending on deliverability.",
+          "**What the recipient sees first.** On Instagram they see your profile, posts and followers. In email they see your name, subject line and a preview line.",
+          "**Finding contacts.** Instagram handles are public. Email addresses usually need research and verification.",
+          "**Setup.** DMs need an account that looks real and has some history. Cold email needs a sending domain, SPF, DKIM and DMARC, and warm-up.",
+          "**Volume.** Email can scale across multiple inboxes. Instagram limits DMs per account and does not publish the limits.",
+          "**Rules.** Cold email is governed by laws such as CAN-SPAM in the US and by inbox providers' sender rules. DMs are governed by Instagram's terms and Meta's spam policy."
+        ]
+      },
+      {
+        "id": "when-dms-win",
+        "heading": "When Instagram DMs are the better choice",
+        "paragraphs": [
+          "DMs work best when your buyer's business is visible on Instagram: coaches, personal trainers, creators, beauty and wellness, restaurants, real estate agents, local service businesses and ecommerce brands. For these people Instagram is often where they answer customers, so a relevant message gets seen.",
+          "Your profile also does some selling for you. A prospect can see your posts, results and followers before replying, which is something a cold email cannot show at a glance."
+        ]
+      },
+      {
+        "id": "when-email-wins",
+        "heading": "When cold email is the better choice",
+        "paragraphs": [
+          "Email wins when your buyers are managers, founders or executives at companies where Instagram is not part of the job: software, finance, manufacturing, professional services. Many of them rarely open Instagram for work, and a message there can feel out of place.",
+          "Email also handles more volume and longer messages, and it is easier to track at scale with established sales tools."
+        ]
+      },
+      {
+        "id": "rules-each-channel",
+        "heading": "The rules for each channel",
+        "paragraphs": [
+          "In the US, the FTC's [CAN-SPAM compliance guide](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) requires commercial emails to have accurate headers, honest subject lines, identification as an ad, a valid postal address and a working opt-out honoured within 10 business days, with penalties per violating email. Other countries have their own rules, some stricter.",
+          "Inbox providers add their own. Google's [email sender guidelines](https://support.google.com/a/answer/81126) require SPF or DKIM for all senders to Gmail, and senders over 5,000 messages a day also need DMARC and one-click unsubscribe for marketing mail. Google says to keep the spam rate below 0.10% and never reach 0.30%.",
+          "On Instagram, Meta's [spam policy](https://transparency.meta.com/policies/community-standards/spam/) prohibits very high frequency or repetitive activity, and Instagram's terms restrict automated access. Automated DMs can conflict with those terms."
+        ]
+      },
+      {
+        "id": "reply-rates",
+        "heading": "Reply rates: what the data says",
+        "paragraphs": [
+          "For cold email there is plenty of vendor data. [Hunter's 2025 report](https://hunter.io/the-state-of-cold-email-2025) puts the average reply rate at 4.1%, and other vendors report averages from below 1% to around 6% depending on how they count. These figures come from companies selling email tools, so read them as rough ranges.",
+          "For Instagram DMs there is no reliable public benchmark. Instagram publishes nothing, and the numbers quoted in blog posts are usually unsourced. The only number that matters is your own: test 50 to 100 messages on each channel to the same type of buyer and compare."
+        ]
+      },
+      {
+        "id": "using-both",
+        "heading": "Using both together",
+        "paragraphs": [
+          "For many businesses the best answer is both. Email someone and engage with their Instagram content the same week, or DM first and move to email once they reply and want details. Touching two channels feels more human than five emails in a row.",
+          "Keep a single record of who you contacted and how, so nobody gets messaged on both channels at once by accident."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Running the Instagram side",
+        "paragraphs": [
+          "If DMs are part of your mix, [IG Outreach Pro](/) sends personalised messages and follow-ups from your own Instagram account in your own browser, with spintax, pacing controls and CSV export so you can line results up with your email campaigns. Pro is $29.99 a month."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Do Instagram DMs get more replies than cold email?",
+        "a": "There is no reliable public data comparing them. It depends heavily on the audience. Test both with the same buyer type and compare your own numbers."
+      },
+      {
+        "q": "Is cold email legal?",
+        "a": "In the US, commercial email is legal if you follow CAN-SPAM. Other countries have different rules, and some require consent. Check the rules where your recipients are."
+      },
+      {
+        "q": "Which is cheaper to start?",
+        "a": "Instagram DMs need less technical setup because you use an existing account. Cold email needs domains, inboxes and authentication before you send."
+      }
+    ],
+    "sources": [
+      {
+        "label": "FTC: CAN-SPAM Act compliance guide for business",
+        "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business"
+      },
+      {
+        "label": "Google: Email sender guidelines",
+        "url": "https://support.google.com/a/answer/81126"
+      },
+      {
+        "label": "Hunter: The State of Cold Email 2025",
+        "url": "https://hunter.io/the-state-of-cold-email-2025"
+      },
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "label": "Instagram Help Center: Direct Messaging and message requests",
+        "url": "https://help.instagram.com/1750528395229662"
+      }
+    ],
+    "related": [
+      "how-to-cold-dm-on-instagram",
+      "how-to-find-leads-on-instagram",
+      "how-to-get-clients-on-instagram"
+    ]
+  },
+  {
+    "slug": "how-to-get-clients-on-instagram",
+    "title": "How to get clients on Instagram (coaches, agencies, freelancers)",
+    "metaTitle": "How to Get Clients on Instagram: A Practical Plan",
+    "metaDescription": "Get clients on Instagram with a clear profile, content that shows proof, daily engagement with ideal buyers and short DMs that lead to a call. Step by step.",
+    "eyebrow": "Client acquisition",
+    "lede": "To get clients on Instagram, make your profile say exactly who you help and show proof, post content your buyers care about, engage with them every day, and start short DM conversations that lead to a call. Inbound and outbound work together: content makes your DMs credible, and DMs put your content in front of the right people.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Your bio should say who you help, with what, and how to start.",
+      "Post proof: results, examples, process and client stories.",
+      "Spend time daily engaging with the exact people you want as clients.",
+      "Start conversations with short, relevant DMs. Sell on a call, not in the inbox.",
+      "Track messages sent, replies, calls booked and clients won every week."
+    ],
+    "sections": [
+      {
+        "id": "fix-profile",
+        "heading": "Set up the profile to convert",
+        "paragraphs": [
+          "Every DM you send and every post that reaches a new person leads back to your profile. If it does not explain what you do in a few seconds, you lose the lead."
+        ],
+        "steps": [
+          "Name field: your name plus your role or result, since it is searchable.",
+          "Bio line one: who you help and with what. Line two: proof or a credential. Line three: what to do next.",
+          "Link: one clear destination, such as a booking page or a short application.",
+          "Highlights: results, testimonials, how it works, FAQs.",
+          "Pinned posts: your best proof, your clearest explanation of the offer, and one personal post."
+        ]
+      },
+      {
+        "id": "content",
+        "heading": "Post content that shows proof",
+        "paragraphs": [
+          "You do not need to post every day. You need posts that a buyer could look at and think, this person can solve my problem. Client results with permission, before and after examples, breakdowns of how you work, answers to questions buyers ask on calls and short stories about specific clients all do that.",
+          "Content also supports outreach. When someone gets your DM and checks your profile, recent useful posts are what make them reply."
+        ]
+      },
+      {
+        "id": "engage",
+        "heading": "Engage with your buyers every day",
+        "paragraphs": [
+          "Set aside 20 to 30 minutes a day to comment thoughtfully on posts from people you would like as clients, reply to stories and answer questions in your niche. Comments with an actual point get noticed; 'great post' does not.",
+          "This builds familiarity before you message, and it fills your own engagers list, which is the warmest source of leads. Our guide on [finding leads on Instagram](/guides/how-to-find-leads-on-instagram) covers where else to look."
+        ]
+      },
+      {
+        "id": "dms",
+        "heading": "Start conversations in DMs",
+        "paragraphs": [
+          "Reply to every comment and story reaction with a message. Welcome new followers who match your client profile. Then add a small amount of cold outreach to people who fit but have not found you yet.",
+          "Keep first messages short and about them, with one easy question. Move to a call only when there is a clear need. See [how to write a DM that gets replies](/guides/how-to-write-an-instagram-dm-that-gets-replies) and the [DM templates](/instagram-dm-templates) for examples."
+        ]
+      },
+      {
+        "id": "by-business-type",
+        "heading": "What changes by business type",
+        "list": [
+          "**Coaches:** lead with transformation stories and the specific situation you help with. Message people already showing the problem, such as those posting about starting a journey or following bigger coaches in your niche. Calls are usually a consult or discovery call.",
+          "**Agencies:** show work and numbers you can actually back up. Message business owners about something specific you noticed on their account or site, and offer a small, concrete idea rather than a full proposal.",
+          "**Freelancers:** your portfolio is your content. Post finished work and short process clips, and message brands, creators or businesses whose work is close to what you do best. Ask about their current project or bottleneck."
+        ]
+      },
+      {
+        "id": "convert",
+        "heading": "Turn replies into clients",
+        "steps": [
+          "Answer their reply and ask one question about their situation.",
+          "When a need is clear, suggest a short call and give two time options or one booking link.",
+          "Confirm the call in the DM the day before.",
+          "On the call, ask more than you talk, then make one clear offer.",
+          "Follow up after the call within a day, in the channel they prefer."
+        ],
+        "tip": "Write down every question prospects ask in DMs. Those questions are your next posts."
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Doing outreach at scale",
+        "paragraphs": [
+          "Once you know which message and audience work, sending them by hand becomes the bottleneck. [IG Outreach Pro](/) sends personalised DMs and follow-up sequences from your own account in your own browser, to followers of an account, hashtag posters or an imported list, with reply scanning so you can focus on the people who answered. Automated DMs can conflict with Instagram's terms, so keep volume modest and messages relevant."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How long does it take to get clients from Instagram?",
+        "a": "It varies widely by offer, price and audience, and there is no reliable average. Consistent daily engagement and outreach usually produce conversations within the first few weeks; turning them into clients depends on your offer and calls."
+      },
+      {
+        "q": "Do I need a lot of followers to get clients?",
+        "a": "No. A clear profile and good proof matter more than follower count for outreach. Prospects check whether you look credible, not whether you are famous."
+      },
+      {
+        "q": "Should I put my prices on Instagram?",
+        "a": "Some people do, many prefer to discuss them on a call. If you work with very different scopes, a starting from price can filter out poor fits without boxing you in."
+      },
+      {
+        "q": "Is it okay to cold DM potential clients?",
+        "a": "Messaging people is a normal feature. Keep it relevant and paced. High volume or repetitive messaging falls under Meta's spam policy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      },
+      {
+        "label": "Instagram Help Center: Direct Messaging and message requests",
+        "url": "https://help.instagram.com/1750528395229662"
+      },
+      {
+        "label": "Hunter: The State of Cold Email 2025 (relevance and response survey)",
+        "url": "https://hunter.io/the-state-of-cold-email-2025"
+      }
+    ],
+    "related": [
+      "how-to-cold-dm-on-instagram",
+      "how-to-find-leads-on-instagram",
+      "instagram-appointment-setter-cost"
+    ]
+  },
+  {
+    "slug": "instagram-appointment-setter-cost",
+    "title": "How much does an Instagram appointment setter cost?",
+    "metaTitle": "Instagram Appointment Setter Cost: Pay Models Compared",
+    "metaDescription": "What an Instagram appointment setter costs: hourly base, base plus commission, commission only and per-appointment pay, with sourced ranges and example math.",
+    "eyebrow": "Hiring",
+    "lede": "An Instagram appointment setter is usually paid in one of four ways: hourly, base plus commission, commission only, or a flat fee per booked call. In the US, Payscale puts the average appointment setter base rate at about $16 an hour, while commission-based setter pay depends entirely on your offer price and close rate.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Four common pay models: hourly, base plus commission, commission only, and per booked call.",
+      "Payscale: US appointment setters average about $16 per hour base, with most between about $13 and $21.",
+      "SetSmart, a setter platform, estimates beginner setters earn about $500 to $1,500 a month and experienced setters about $1,500 to $3,000.",
+      "Commission is usually tied to cash collected, not contract value.",
+      "Work out the cost per booked call and per client, not just the hourly rate."
+    ],
+    "sections": [
+      {
+        "id": "what-setters-do",
+        "heading": "What an appointment setter does",
+        "paragraphs": [
+          "On Instagram, a setter starts and manages DM conversations, qualifies people, and books the ones who fit onto a call with you or your closer. In high-ticket coaching and agency sales this split is common: the setter fills the calendar, the closer runs the call.",
+          "Some setters only handle inbound replies and comments. Others also do cold outreach. Be clear which you are hiring for, because it changes the workload and fair pay."
+        ]
+      },
+      {
+        "id": "pay-models",
+        "heading": "The four pay models",
+        "list": [
+          "**Hourly or salary.** Predictable for the setter, a fixed cost for you. [Payscale](https://www.payscale.com/research/US/Job=Appointment_Setter/Salary) reports a US average of about $16.08 an hour base (10th to 90th percentile roughly $13 to $21), from 76 profiles updated May 2026. This covers appointment setters in general, not only Instagram.",
+          "**Base plus commission.** A lower base plus a percentage of cash collected or a bonus per qualified call. The most common model for setters you want to keep long term.",
+          "**Commission only.** A percentage of cash collected from deals the setter booked. Cheap if nothing closes, but you attract less experienced setters and higher turnover.",
+          "**Per booked or per showed call.** A flat fee for each qualified call booked or attended. Easy to track, but define qualified carefully or you pay for poor calls."
+        ]
+      },
+      {
+        "id": "sourced-ranges",
+        "heading": "What the published ranges say",
+        "paragraphs": [
+          "There is no authoritative survey of Instagram setter pay. The best available figures are general setter salary data and estimates from companies in the setter space:"
+        ],
+        "list": [
+          "**Payscale (salary data):** about $16 per hour base for US appointment setters, with total annual pay including bonus and commission in a range of roughly $28,000 to $47,000.",
+          "**SetSmart (setter platform, vendor estimate):** beginner setters about $500 to $1,500 a month, experienced setters about $1,500 to $3,000. The same source puts closers at base plus 5% to 10% commission when starting and 10% to 20% when experienced. SetSmart does not publish where these figures come from.",
+          "**Job postings:** remote setter postings vary widely, from commission-only percentages of cash collected to flat fees per booked call. Treat earnings claims in postings as the employer's projection."
+        ],
+        "tip": "Setter commission is usually smaller than closer commission, because the closer carries the call that turns the booking into revenue."
+      },
+      {
+        "id": "example-math",
+        "heading": "Example math",
+        "paragraphs": [
+          "These numbers are made up to show the calculation, not benchmarks. Say your offer is $3,000, your setter books 20 qualified calls a month, 70% show up, and you close 20% of those who show.",
+          "That is 14 calls held and about 3 clients, or $9,000 collected. At a 5% setter commission, the setter earns $450. Add a $1,000 monthly base and your total setter cost is $1,450, or about $72 per booked call and about $480 per client.",
+          "Run the same sum with your own numbers. If your offer is cheap or your close rate is low, commission-only pay will not attract anyone good. If your offer is high-ticket, a base plus commission usually works better than a high hourly rate."
+        ]
+      },
+      {
+        "id": "hidden-costs",
+        "heading": "Costs people forget",
+        "list": [
+          "Training time: scripts, objections, your offer and how you qualify.",
+          "Management: reviewing conversations every week, especially early.",
+          "Tools: CRM or spreadsheet, scheduling, and any outreach software.",
+          "Account access: setters often work inside your Instagram account. Use proper shared access where available, never hand out passwords loosely, and stay in control of the account.",
+          "Contracts and tax: employee or contractor rules depend on your country and state. Check before you hire."
+        ]
+      },
+      {
+        "id": "doing-this-at-scale",
+        "heading": "Setter, software or both",
+        "paragraphs": [
+          "Much of a setter's day is repetitive: sending openers, tracking follow-ups and checking who replied. [IG Outreach Pro](/) handles that sending side from your own account in your own browser, with follow-up sequences, reply scanning and CSV export, for $29.99 a month on Pro. That can let one setter focus on the conversations that matter, or let you set your own calls before you hire.",
+          "Software does not qualify people or build trust in a conversation. A good setter does. Automated DMs can also conflict with Instagram's terms, so keep volume modest."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Should setter commission be based on cash collected or contract value?",
+        "a": "Cash collected is more common and safer for you, because you only pay on money you actually received. If clients pay in instalments, agree whether commission follows each payment."
+      },
+      {
+        "q": "Should I pay per booked call or per showed call?",
+        "a": "Per showed call protects you from no-shows but puts that risk on the setter. Many businesses pay on showed, qualified calls and define qualified in writing."
+      },
+      {
+        "q": "Are setters employees or contractors?",
+        "a": "It depends on how you manage them and on local law. Rules differ by country and US state, so check with an accountant or employment lawyer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Payscale: Appointment Setter hourly pay (US)",
+        "url": "https://www.payscale.com/research/US/Job=Appointment_Setter/Salary"
+      },
+      {
+        "label": "SetSmart: High ticket closing and setter pay (vendor estimate)",
+        "url": "https://setsmart.io/blog/high-ticket-closing"
+      }
+    ],
+    "related": [
+      "how-to-get-clients-on-instagram",
+      "how-to-cold-dm-on-instagram",
+      "instagram-follow-up-message"
+    ]
+  },
+  {
+    "slug": "how-to-write-an-instagram-dm-that-gets-replies",
+    "title": "How to write an Instagram DM that gets replies",
+    "metaTitle": "How to Write an Instagram DM That Gets Replies",
+    "metaDescription": "Write Instagram DMs people answer: open with something specific about them, keep it under 50 words, skip the pitch and links, and end with one easy question.",
+    "eyebrow": "Copywriting",
+    "lede": "A DM that gets replies is short, specific to the person and ends with one question they can answer in a few words. It talks about them, not you, and it does not try to sell in the first message.",
+    "minutes": 4,
+    "updated": "18 Oct 2026",
+    "updatedIso": "2026-10-18",
+    "tldr": [
+      "Open with something specific about them, not a compliment that fits anyone.",
+      "Keep it short. Aim for under about 50 words.",
+      "Say what you do in one plain line, if at all.",
+      "End with one easy question, not a calendar link.",
+      "No links, prices or long pitches in the first message."
+    ],
+    "sections": [
+      {
+        "id": "why-dms-get-ignored",
+        "heading": "Why most DMs get ignored",
+        "paragraphs": [
+          "People ignore messages that are not about them. In [Hunter's 2025 survey](https://hunter.io/the-state-of-cold-email-2025) of decision makers about cold email, 71% named lack of relevance as the main reason they do not respond, followed by impersonal messages at 43% and lack of trust at 36%. That survey is about email, but the same reasons apply when a stranger's message lands in your Instagram requests.",
+          "The fix is not cleverer copy. It is a message that could only have been sent to that one person, short enough to answer on a phone between other things."
+        ]
+      },
+      {
+        "id": "formula",
+        "heading": "A simple formula",
+        "steps": [
+          "**Observation:** one specific thing from their profile, a recent post or a story.",
+          "**Relevance:** one short line connecting it to what you do, only if natural.",
+          "**Question:** one easy question about their situation, answerable in a few words."
+        ],
+        "paragraphs": [
+          "Example for a freelance video editor messaging a coach: **Hey Sam, your reel on morning routines was great, the hook in the first second really worked. Do you edit those yourself or have someone helping?**",
+          "It is specific, it is about them, and the question is easy to answer whatever the answer is."
+        ]
+      },
+      {
+        "id": "before-after",
+        "heading": "Before and after",
+        "list": [
+          "**Before:** Hi! I help coaches scale to $10k months with our proven system. Book a free call here (link). **After:** Hi Jen, saw you just opened spots for your 8 week program, congrats. How are you finding people for it so far?",
+          "**Before:** Love your page!! Let me know if you need help with marketing. **After:** Hey Omar, the new patio photos look great. Has the patio been busy on weeknights, or mostly weekends?",
+          "**Before:** Dear Sir/Madam, I am reaching out to introduce our agency services. **After:** Hi Lena, your listing video for the Elm Street house was really clean. Do you shoot those yourself?"
+        ]
+      },
+      {
+        "id": "rules",
+        "heading": "Rules that hold up",
+        "list": [
+          "**Use their name** if you know it. Placeholders like {firstname} help at scale, but check the name is real and not a brand.",
+          "**One question, not three.** Multiple questions make replying feel like homework.",
+          "**No link in the first message.** It looks like spam and is widely reported to raise the risk of restrictions.",
+          "**No fake familiarity.** Do not pretend you met or that they asked for anything.",
+          "**Write like you talk.** Read it out loud. If it sounds like an ad, rewrite it.",
+          "**Vary it.** If you send the same message to many people, use [spintax](/guides/what-is-spintax) so it does not read identically."
+        ],
+        "tip": "Personalisation pays off in email data too: the [Backlinko and Pitchbox study](https://backlinko.com/email-outreach-study) found personalised email bodies got 32.7% more replies. Instagram has no equivalent public study."
+      },
+      {
+        "id": "after-reply",
+        "heading": "What to send after they reply",
+        "paragraphs": [
+          "Answer their reply properly, then ask one more question about their situation. Two or three exchanges in, if there is a real need, suggest a short call or offer something specific, such as an example or a quick idea.",
+          "If they do not reply, a short follow-up two or three days later is fine. See [Instagram follow-up messages](/guides/instagram-follow-up-message) for timing and examples."
+        ]
+      },
+      {
+        "id": "test",
+        "heading": "Test, then keep what works",
+        "paragraphs": [
+          "Write two or three versions of your opener and send each to a similar group of 30 to 50 people. Count replies, not just positive replies, since a conversation is what you want from a first message. Keep the winner, change one thing, and test again.",
+          "The [DM templates](/instagram-dm-templates) give tested starting points by niche. [IG Outreach Pro](/) can send your versions with AI drafting, spintax and Test Mode previews from your own account, then export results to CSV so you can compare them. Automated DMs can conflict with Instagram's terms, so keep test batches small."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How long should an Instagram DM be?",
+        "a": "Short enough to read in a few seconds on a phone. Under about 50 words is a good target for a first message; follow-ups can be even shorter."
+      },
+      {
+        "q": "Should I use emojis?",
+        "a": "One can make a message feel casual if it fits your brand and theirs. Several emojis in a cold message tends to read like marketing."
+      },
+      {
+        "q": "Is a voice note better than text?",
+        "a": "Voice notes can feel personal once a conversation has started. As a first cold message they can feel intrusive, so most people keep the opener in text."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hunter: The State of Cold Email 2025",
+        "url": "https://hunter.io/the-state-of-cold-email-2025"
+      },
+      {
+        "label": "Backlinko and Pitchbox: email outreach study of 12 million emails",
+        "url": "https://backlinko.com/email-outreach-study"
+      },
+      {
+        "label": "Meta Transparency Center: Spam policy",
+        "url": "https://transparency.meta.com/policies/community-standards/spam/"
+      }
+    ],
+    "related": [
+      "how-to-cold-dm-on-instagram",
+      "instagram-follow-up-message",
+      "what-is-spintax"
+    ]
+  }
+]

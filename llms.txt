@@ -1,0 +1,80 @@
+# IG Outreach Pro
+
+> A Chrome extension that sends personalized Instagram DMs and follow-ups from your own account, in your own browser.
+
+Facts:
+- Targets: followers or following of any account, people posting a hashtag, or your own imported list (PDF/Excel).
+- Every message can differ: spintax plus {firstname}, {fullname} and {username} placeholders, and AI drafting on paid plans.
+- Follow-up sequences, reply scanning, duplicate memory of 10,000+ usernames, CSV export.
+- Safety controls the user sets: Test Mode, Safe Start warm-up, pacing presets, hourly cap, break schedule, automatic opt-outs in 12 languages.
+- Pro is $29.99 a month. Chrome Web Store rating 5.0.
+- It does not offer inbound auto-replies, comment-to-DM, an official Meta API connection, proxies or a done-for-you service.
+- Automated DMs can conflict with Instagram's terms; no tool can promise an account will not be restricted.
+
+## Pages
+- [Home](https://www.igoutreachpro.com/)
+- [Free Instagram DM templates](https://www.igoutreachpro.com/instagram-dm-templates)
+- [Comparisons](https://www.igoutreachpro.com/alternatives)
+- [Guides](https://www.igoutreachpro.com/guides)
+- [Support](https://www.igoutreachpro.com/support)
+
+## Guides
+- [How many DMs can you send on Instagram per day?](https://www.igoutreachpro.com/guides/instagram-dm-limit-per-day): Instagram publishes no official daily DM limit. Here are the vendor and community estimates, what changes your limit, and a safe way to ramp up volume.
+- [How to cold DM on Instagram](https://www.igoutreachpro.com/guides/how-to-cold-dm-on-instagram): A practical way to cold DM on Instagram: pick a narrow audience, engage first, send a short message about them, ask one easy question and follow up twice.
+- [How to DM on Instagram without getting blocked](https://www.igoutreachpro.com/guides/how-to-dm-on-instagram-without-getting-blocked): No method guarantees you won't get blocked. Here is what Instagram says triggers restrictions, what users report, how to warm up and what to do if it happens.
+- [Instagram follow-up messages: timing and examples](https://www.igoutreachpro.com/guides/instagram-follow-up-message): When to follow up on an unanswered Instagram DM, how many times, and 10 follow-up message examples that stay polite, short and easy to reply to.
+- [How to find leads on Instagram](https://www.igoutreachpro.com/guides/how-to-find-leads-on-instagram): Where to find leads on Instagram: followers of adjacent accounts, hashtags, commenters, locations and your own engagers, plus how to qualify them before you DM.
+- [What is spintax? Examples for DMs and outreach](https://www.igoutreachpro.com/guides/what-is-spintax): Spintax is a text format like {Hi|Hey|Hello} that picks one option each time. Learn the syntax, nesting, placeholders and common mistakes, with examples.
+- [Instagram DM vs cold email: which should you use?](https://www.igoutreachpro.com/guides/instagram-dm-vs-cold-email): Instagram DMs suit visual, local and creator businesses with active accounts. Cold email suits B2B buyers. Compare reach, setup, rules, volume and replies.
+- [How to get clients on Instagram (coaches, agencies, freelancers)](https://www.igoutreachpro.com/guides/how-to-get-clients-on-instagram): Get clients on Instagram with a clear profile, content that shows proof, daily engagement with ideal buyers and short DMs that lead to a call. Step by step.
+- [How much does an Instagram appointment setter cost?](https://www.igoutreachpro.com/guides/instagram-appointment-setter-cost): What an Instagram appointment setter costs: hourly base, base plus commission, commission only and per-appointment pay, with sourced ranges and example math.
+- [How to write an Instagram DM that gets replies](https://www.igoutreachpro.com/guides/how-to-write-an-instagram-dm-that-gets-replies): Write Instagram DMs people answer: open with something specific about them, keep it under 50 words, skip the pitch and links, and end with one easy question.
+
+## Comparisons
+- [InstaOutreach alternative](https://www.igoutreachpro.com/alternatives/instaoutreach-alternative): InstaOutreach vs IG Outreach Pro: both are Chrome extensions on your own Instagram account. Compare pricing per account, inbox, AI and safety controls.
+- [ColdDMs alternative](https://www.igoutreachpro.com/alternatives/colddms-alternative): ColdDMs vs IG Outreach Pro: two Chrome extensions for Instagram cold DMs. Compare lead sources, sequences, A/B testing, pricing and safety controls.
+- [Wave alternative](https://www.igoutreachpro.com/alternatives/wave-alternative): Wave vs IG Outreach Pro: a cloud Instagram outreach platform vs a Chrome extension on your own account. Compare price, lead filters, proxies and control.
+- [Inflact alternative](https://www.igoutreachpro.com/alternatives/inflact-alternative): Inflact vs IG Outreach Pro: Inflact is an Instagram research and analytics suite, IG Outreach Pro sends outbound DMs. See which fits your goal.
+- [IGdm Pro alternative](https://www.igoutreachpro.com/alternatives/igdm-pro-alternative): IGdm Pro vs IG Outreach Pro: a desktop DM app with auto-replies vs a Chrome extension for outbound outreach. Compare price, targeting and safety controls.
+- [ManyChat alternative](https://www.igoutreachpro.com/alternatives/manychat-alternative): ManyChat automates replies to people who message or comment first. IG Outreach Pro sends outbound DMs. See which job you need, and why many use both.
+- [Inro alternative](https://www.igoutreachpro.com/alternatives/inro-alternative): Inro automates Instagram comments, DMs and story replies on Meta's official API. IG Outreach Pro sends outbound DMs. Compare, and see why many use both.
+- [DM Hero alternative](https://www.igoutreachpro.com/alternatives/dm-hero-alternative): DM Hero vs IG Outreach Pro: an AI setter with CRM from $199/mo vs a $29.99/mo Chrome extension for outbound DMs. Compare volume, AI and price.
+- [Autolead alternative](https://www.igoutreachpro.com/alternatives/autolead-alternative): Autolead vs IG Outreach Pro: compare daily DM limits, multi-account sending, proxies, follow-ups and safety controls for Instagram outreach.
+
+## DM templates by niche
+- [Instagram DM Templates for Coaches](https://www.igoutreachpro.com/instagram-dm-templates/coaches)
+- [Instagram DM Templates for Agencies](https://www.igoutreachpro.com/instagram-dm-templates/agencies)
+- [Instagram DM Templates for Real Estate Agents](https://www.igoutreachpro.com/instagram-dm-templates/real-estate-agents)
+- [Influencer Outreach DM Templates for Instagram](https://www.igoutreachpro.com/instagram-dm-templates/influencer-outreach)
+- [Instagram DM Templates for Local Businesses](https://www.igoutreachpro.com/instagram-dm-templates/local-businesses)
+- [Instagram DM Templates for Fitness Coaches](https://www.igoutreachpro.com/instagram-dm-templates/fitness-coaches)
+- [Instagram DM Templates for Personal Trainers](https://www.igoutreachpro.com/instagram-dm-templates/personal-trainers)
+- [Instagram DM Templates for Business Coaches](https://www.igoutreachpro.com/instagram-dm-templates/business-coaches)
+- [Instagram DM Templates for Life Coaches](https://www.igoutreachpro.com/instagram-dm-templates/life-coaches)
+- [Instagram DM Templates for Nutritionists](https://www.igoutreachpro.com/instagram-dm-templates/nutritionists)
+- [Instagram DM Templates for Med Spas](https://www.igoutreachpro.com/instagram-dm-templates/med-spas)
+- [Instagram DM Templates for Hair Salons](https://www.igoutreachpro.com/instagram-dm-templates/hair-salons)
+- [Instagram DM Templates for Barbers](https://www.igoutreachpro.com/instagram-dm-templates/barbers)
+- [Instagram DM Templates for Tattoo Artists](https://www.igoutreachpro.com/instagram-dm-templates/tattoo-artists)
+- [Instagram DM Templates for Photographers](https://www.igoutreachpro.com/instagram-dm-templates/photographers)
+- [Instagram DM Templates for Wedding Vendors](https://www.igoutreachpro.com/instagram-dm-templates/wedding-vendors)
+- [Instagram DM Templates for Dentists](https://www.igoutreachpro.com/instagram-dm-templates/dentists)
+- [Instagram DM Templates for Chiropractors](https://www.igoutreachpro.com/instagram-dm-templates/chiropractors)
+- [Instagram DM Templates for Gyms](https://www.igoutreachpro.com/instagram-dm-templates/gyms)
+- [Instagram DM Templates for Restaurants](https://www.igoutreachpro.com/instagram-dm-templates/restaurants)
+- [Instagram DM Templates for Ecommerce Brands](https://www.igoutreachpro.com/instagram-dm-templates/ecommerce-brands)
+- [Instagram DM Templates for Clothing Brands](https://www.igoutreachpro.com/instagram-dm-templates/clothing-brands)
+- [Instagram DM Templates for SaaS Founders](https://www.igoutreachpro.com/instagram-dm-templates/saas)
+- [Instagram DM Templates for Recruiters](https://www.igoutreachpro.com/instagram-dm-templates/recruiters)
+- [Instagram DM Templates for UGC Creators](https://www.igoutreachpro.com/instagram-dm-templates/ugc-creators)
+- [Instagram DM Templates for Pitching Brands](https://www.igoutreachpro.com/instagram-dm-templates/brand-deals)
+- [Instagram DM Templates for Booking Podcast Guests](https://www.igoutreachpro.com/instagram-dm-templates/podcast-guests)
+- [Instagram DM Templates for Web Designers](https://www.igoutreachpro.com/instagram-dm-templates/web-designers)
+- [Instagram DM Templates for Social Media Managers](https://www.igoutreachpro.com/instagram-dm-templates/social-media-managers)
+- [Instagram DM Templates for Video Editors](https://www.igoutreachpro.com/instagram-dm-templates/video-editors)
+- [Instagram DM Templates for Course Creators](https://www.igoutreachpro.com/instagram-dm-templates/course-creators)
+- [Instagram DM Templates for Mortgage Brokers](https://www.igoutreachpro.com/instagram-dm-templates/mortgage-brokers)
+- [Instagram DM Templates for Insurance Agents](https://www.igoutreachpro.com/instagram-dm-templates/insurance-agents)
+- [Instagram DM Templates for Interior Designers](https://www.igoutreachpro.com/instagram-dm-templates/interior-designers)
+- [Instagram DM Templates for Event Planners](https://www.igoutreachpro.com/instagram-dm-templates/event-planners)
+- [Instagram DM Templates for Artists Selling Art](https://www.igoutreachpro.com/instagram-dm-templates/artists-selling-art)

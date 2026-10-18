@@ -20,11 +20,19 @@ import json
 import re
 from pathlib import Path
 
+import seo_pages
+
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://www.igoutreachpro.com"
 CWS = "https://chromewebstore.google.com/detail/ig-outreach-pro/iabflpjdaaaljedkocccimhfjonakcon"
 TODAY = datetime.date.today().isoformat()
-NICHES = json.loads((ROOT / "data/niches.json").read_text())
+HOME_NICHES = json.loads((ROOT / "data/niches.json").read_text())
+NICHES = dict(HOME_NICHES)
+for extra in sorted((ROOT / "data").glob("niches-batch*.json")):
+    NICHES.update(json.loads(extra.read_text()))
+ALTERNATIVES = json.loads((ROOT / "data/alternatives.json").read_text()) if (ROOT / "data/alternatives.json").exists() else []
+GUIDES = json.loads((ROOT / "data/guides.json").read_text()) if (ROOT / "data/guides.json").exists() else []
+NICHE_JS_FIELDS = ("label", "slug", "crumb", "targets", "people", "reply", "templates")
 HUB = "instagram-dm-templates"
 
 SPIN_RE = re.compile(r"\{([^{}]*\|[^{}]*)\}")
@@ -85,8 +93,9 @@ def nav(p):
 def footer(p):
     niche_links = "\n".join(
         f'        <a href="/{HUB}/{n["slug"]}">{esc(n["h1"].replace("Instagram DM templates for ", "For ").replace("Influencer outreach DM templates", "Influencer outreach"))} <span>→</span></a>'
-        for n in NICHES.values()
+        for n in HOME_NICHES.values()
     )
+    learn = "\n".join(f'        <a href="/guides/{g["slug"]}">{esc(g["eyebrow"])} <span>→</span></a>' for g in GUIDES[:4])
     return f'''<footer class="foot">
   <div class="wrap">
     <div class="foot-top">
@@ -107,6 +116,12 @@ def footer(p):
         <h4>Free DM templates</h4>
         <a href="/{HUB}">All templates <span>→</span></a>
 {niche_links}
+      </div>
+      <div class="foot-col">
+        <h4>Learn</h4>
+        <a href="/guides">All guides <span>→</span></a>
+        <a href="/alternatives">Comparisons <span>→</span></a>
+{learn}
       </div>
       <div class="foot-col">
         <h4>Information</h4>
@@ -202,11 +217,18 @@ TAIL = '''<a class="mcta" id="mcta" href="{cws}" target="_blank" rel="noopener">
 </a>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 {MODAL}
-<script src="/assets/js/niches.js" defer></script>
+@@NICHEDATA@@
 <script src="/assets/js/landing.js" defer></script>
 </body>
 </html>
 '''.replace("{cws}", CWS).replace("{MODAL}", MODAL)
+TAIL_HOME = TAIL.replace("@@NICHEDATA@@", '<script src="/assets/js/niches.js" defer></script>')
+
+
+def tail_for(key):
+    """Niche pages carry their own niche inline so niches.js stays the homepage's five tabs."""
+    data = json.dumps({key: {f: NICHES[key][f] for f in NICHE_JS_FIELDS}}, ensure_ascii=False).replace("</", "<\\/")
+    return TAIL.replace("@@NICHEDATA@@", f"<script>window.NICHES = {data};</script>")
 
 
 def head(title, desc, path, ld=None, robots="index,follow"):
@@ -260,7 +282,7 @@ def tpl_card(t, i):
 
 # --------------------------------------------------------------------------- pages
 def niche_page(key, n):
-    others = [(k, o) for k, o in NICHES.items() if k != key]
+    others = [(k, o) for k, o in NICHES.items() if k != key][:8]
     total = sum(count_variants(t["text"]) for t in n["templates"])
     faqs = [
         ("What is spintax?", "Spintax is a way of writing several versions of a message at once. Options go inside curly braces separated by a pipe, like {Hey|Hi|Hello}, and one is picked at random for each person. Placeholders like {firstname} fill in the recipient's details. IG Outreach Pro uses exactly this syntax."),
@@ -390,7 +412,7 @@ def niche_page(key, n):
 {final_cta()}
 </main>
 {footer("/")}
-{TAIL}'''
+{tail_for(key)}'''
 
 
 def hub_page():
@@ -426,7 +448,7 @@ def hub_page():
 {final_cta("Templates are the easy part.", "Let the extension send them for you.")}
 </main>
 {footer("/")}
-{TAIL}'''
+{TAIL_HOME}'''
 
 
 def rewrap_legal(name, title_hint):
@@ -444,7 +466,7 @@ def rewrap_legal(name, title_hint):
 {body.strip()}
 </main>
 {footer("/")}
-{TAIL}'''
+{TAIL_HOME}'''
     path.write_text(page)
 
 
@@ -468,12 +490,31 @@ def not_found():
 </section>
 </main>
 {footer("/")}
-{TAIL}'''
+{TAIL_HOME}'''
+
+
+def seo_page(title, desc, path, ld, body, cta):
+    """Shared shell for the alternatives and guides pages."""
+    return f'''{head(title, desc, path, ld)}
+<body>
+{sprite()}
+{nav("/")}
+<main>
+{body}
+
+{final_cta(*cta) if cta else final_cta()}
+</main>
+{footer("/")}
+{TAIL_HOME}'''
 
 
 def sitemap():
     urls = [("", "weekly", "1.0"), (HUB, "weekly", "0.9")]
     urls += [(f"{HUB}/{n['slug']}", "monthly", "0.8") for n in NICHES.values()]
+    if ALTERNATIVES:
+        urls += [("alternatives", "weekly", "0.8")] + [(f"alternatives/{a['slug']}", "monthly", "0.8") for a in ALTERNATIVES]
+    if GUIDES:
+        urls += [("guides", "weekly", "0.8")] + [(f"guides/{g['slug']}", "monthly", "0.7") for g in GUIDES]
     urls += [("support", "monthly", "0.5"), ("privacy", "yearly", "0.3"), ("terms", "yearly", "0.3")]
     rows = "\n".join(f'''  <url>
     <loc>{SITE}/{u}</loc>
@@ -495,7 +536,7 @@ def replace_block(src, name, content):
 
 
 def main():
-    js_data = {k: {f: v[f] for f in ("label", "slug", "crumb", "targets", "people", "reply", "templates")} for k, v in NICHES.items()}
+    js_data = {k: {f: v[f] for f in NICHE_JS_FIELDS} for k, v in HOME_NICHES.items()}
     (ROOT / "assets/js/niches.js").write_text(
         "/* Generated by tools/build.py from data/niches.json. Do not edit by hand. */\n"
         f"window.NICHES = {json.dumps(js_data, ensure_ascii=False, indent=1)};\n")
@@ -516,8 +557,10 @@ def main():
     for name in ("support.html", "privacy.html", "terms.html"):
         rewrap_legal(name, name)
     (ROOT / "404.html").write_text(not_found())
+    seo_pages.render_all({"esc": esc, "site": SITE, "cws": CWS, "wall": wall, "page": seo_page,
+                          "alternatives": ALTERNATIVES, "guides": GUIDES, "niches": NICHES}, ROOT)
     (ROOT / "sitemap.xml").write_text(sitemap())
-    print(f"built: hub + {len(NICHES)} niche pages, 3 legal pages, 404, sitemap, niches.js")
+    print(f"built: hub + {len(NICHES)} niche pages, {len(ALTERNATIVES)} alternatives, {len(GUIDES)} guides, 3 legal pages, 404, llms.txt, sitemap, niches.js")
 
 
 if __name__ == "__main__":
