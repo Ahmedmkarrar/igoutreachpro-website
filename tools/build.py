@@ -231,6 +231,9 @@ def tail_for(key):
     return TAIL.replace("@@NICHEDATA@@", f"<script>window.NICHES = {data};</script>")
 
 
+POSTHOG = (ROOT / "tools/posthog.html").read_text().strip()
+
+
 def head(title, desc, path, ld=None, robots="index,follow"):
     canonical = f"{SITE}/{path}".rstrip("/") if path else f"{SITE}/"
     ld_block = f'\n<script type="application/ld+json">\n{json.dumps(ld, indent=1, ensure_ascii=False)}\n</script>' if ld else ""
@@ -258,6 +261,7 @@ def head(title, desc, path, ld=None, robots="index,follow"):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fustat:wght@300..700&family=Inter:wght@400..600&family=JetBrains+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="/assets/css/landing.css">{ld_block}
+{POSTHOG}
 </head>'''
 
 
