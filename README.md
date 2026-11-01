@@ -106,6 +106,14 @@ That regenerates `assets/js/niches.js`, the nav/footer/playground blocks in `ind
 the shell of `support.html` / `privacy.html` / `terms.html` (their body copy is preserved
 verbatim), `404.html`, and `sitemap.xml`. Commit the generated output; Vercel serves it as-is.
 
+## Analytics
+
+The site currently ships **no analytics**. The PostHog snippet added on 18 Oct 2026 used
+SimpleVerifier's project key and was removed. To add analytics back, create a separate PostHog
+project for IG Outreach Pro, put its snippet in `tools/posthog.html` (see commit 3a0ad82 for the
+old snippet and `assets/js/track.js` funnel events), have `head()` in `tools/build.py` inject it,
+add the same block to `index.html`, and run the build. Never reuse SimpleVerifier's key.
+
 ## Local preview
 
 ```sh
